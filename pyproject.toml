@@ -1,2 +1,21 @@
+[project]
+name = "all-live-tv-stream"
+version = "1.0.0"
+description = "Fast. Stable. Intelligent Streaming. IPTV Backend System."
+requires-python = ">=3.9"
+dependencies = [
+    "fastapi>=0.100.0,<0.111.0",
+    "uvicorn>=0.20.0",
+    "pydantic>=2.0",
+    "pydantic-settings>=2.0",
+    "motor>=3.0.0",
+    "redis>=5.0.0",
+    "aiohttp>=3.8.0",
+    "apscheduler>=3.10.0",
+    "slowapi>=0.1.8",
+    "pymongo>=4.0.0",
+    "httpx>=0.24.0"
+]
+
 [tool.vercel]
 entrypoint = "backend.main:app"
