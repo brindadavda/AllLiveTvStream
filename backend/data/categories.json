@@ -1,0 +1,182 @@
+[
+  {
+    "_id": "auto",
+    "id": "auto",
+    "name": "Auto",
+    "description": "Programming related to cars, motorcycles, and other automobiles"
+  },
+  {
+    "_id": "animation",
+    "id": "animation",
+    "name": "Animation",
+    "description": "Programming is mostly 2D or 3D animation"
+  },
+  {
+    "_id": "business",
+    "id": "business",
+    "name": "Business",
+    "description": "Programming related to business"
+  },
+  {
+    "_id": "classic",
+    "id": "classic",
+    "name": "Classic",
+    "description": "Programming is mostly from earlier decades"
+  },
+  {
+    "_id": "comedy",
+    "id": "comedy",
+    "name": "Comedy",
+    "description": "Programming is mostly comedy"
+  },
+  {
+    "_id": "cooking",
+    "id": "cooking",
+    "name": "Cooking",
+    "description": "Programs related to cooking or food in general"
+  },
+  {
+    "_id": "culture",
+    "id": "culture",
+    "name": "Culture",
+    "description": "Programming is mostly about art and culture"
+  },
+  {
+    "_id": "documentary",
+    "id": "documentary",
+    "name": "Documentary",
+    "description": "Programming that depicts a person or real-world event"
+  },
+  {
+    "_id": "education",
+    "id": "education",
+    "name": "Education",
+    "description": "Programming is intended to be educational"
+  },
+  {
+    "_id": "entertainment",
+    "id": "entertainment",
+    "name": "Entertainment",
+    "description": "Channels with a variety of entertainment programs"
+  },
+  {
+    "_id": "family",
+    "id": "family",
+    "name": "Family",
+    "description": "Programming that is be suitable for all members of a family"
+  },
+  {
+    "_id": "general",
+    "id": "general",
+    "name": "General",
+    "description": "Provides a variety of different programming"
+  },
+  {
+    "_id": "interactive",
+    "id": "interactive",
+    "name": "Interactive",
+    "description": "Programming that allows viewers to actively engage with the content"
+  },
+  {
+    "_id": "kids",
+    "id": "kids",
+    "name": "Kids",
+    "description": "Programming targeted to children"
+  },
+  {
+    "_id": "legislative",
+    "id": "legislative",
+    "name": "Legislative",
+    "description": "Programming specific to the operation of government"
+  },
+  {
+    "_id": "lifestyle",
+    "id": "lifestyle",
+    "name": "Lifestyle",
+    "description": "Programs related to health, fitness, leisure, fashion, decor, etc."
+  },
+  {
+    "_id": "movies",
+    "id": "movies",
+    "name": "Movies",
+    "description": "Channels that only show movies"
+  },
+  {
+    "_id": "music",
+    "id": "music",
+    "name": "Music",
+    "description": "Programming is music or music related"
+  },
+  {
+    "_id": "news",
+    "id": "news",
+    "name": "News",
+    "description": "Programming is mostly news"
+  },
+  {
+    "_id": "outdoor",
+    "id": "outdoor",
+    "name": "Outdoor",
+    "description": "Programming related to outdoor activities like fishing, hunting, etc."
+  },
+  {
+    "_id": "public",
+    "id": "public",
+    "name": "Public",
+    "description": "Non-commercial channels that prioritize public service"
+  },
+  {
+    "_id": "relax",
+    "id": "relax",
+    "name": "Relax",
+    "description": "Programming is calm sounding and beautiful views"
+  },
+  {
+    "_id": "religious",
+    "id": "religious",
+    "name": "Religious",
+    "description": "Religious programming"
+  },
+  {
+    "_id": "series",
+    "id": "series",
+    "name": "Series",
+    "description": "Channels that only show series"
+  },
+  {
+    "_id": "science",
+    "id": "science",
+    "name": "Science",
+    "description": "Science and Technology"
+  },
+  {
+    "_id": "shop",
+    "id": "shop",
+    "name": "Shop",
+    "description": "Programming is for shopping"
+  },
+  {
+    "_id": "sports",
+    "id": "sports",
+    "name": "Sports",
+    "description": "Programming is sports"
+  },
+  {
+    "_id": "travel",
+    "id": "travel",
+    "name": "Travel",
+    "description": "Programming is travel related"
+  },
+  {
+    "_id": "weather",
+    "id": "weather",
+    "name": "Weather",
+    "description": "Programming is focused on weather"
+  },
+  {
+    "_id": "xxx",
+    "id": "xxx",
+    "name": "XXX",
+    "description": "Programming is adult oriented and x-rated"
+  }
+]

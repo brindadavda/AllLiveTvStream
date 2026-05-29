@@ -1,0 +1,9149 @@
+[
+  {
+    "_id": "SD",
+    "channel": "ZZTV.rs",
+    "id": "SD",
+    "name": "SD",
+    "alt_names": [],
+    "is_main": true,
+    "broadcast_area": [
+      "c/RS"
+    ],
+    "timezones": [
+      "Europe/Belgrade"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Adelaide",
+    "channel": "SBSWorldWatch.au",
+    "id": "Adelaide",
+    "name": "Adelaide",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "s/AU-SA"
+    ],
+    "timezones": [
+      "Australia/Adelaide"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Brisbane",
+    "channel": "SBSWorldWatch.au",
+    "id": "Brisbane",
+    "name": "Brisbane",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "s/AU-QLD"
+    ],
+    "timezones": [
+      "Australia/Brisbane"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Hobart",
+    "channel": "SBSWorldWatch.au",
+    "id": "Hobart",
+    "name": "Hobart",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "s/AU-TAS"
+    ],
+    "timezones": [
+      "Australia/Hobart"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Melbourne",
+    "channel": "SBSWorldWatch.au",
+    "id": "Melbourne",
+    "name": "Melbourne",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "s/AU-VIC"
+    ],
+    "timezones": [
+      "Australia/Melbourne"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Perth",
+    "channel": "SBSWorldWatch.au",
+    "id": "Perth",
+    "name": "Perth",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "s/AU-WA"
+    ],
+    "timezones": [
+      "Australia/Perth"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Sydney",
+    "channel": "SBSWorldWatch.au",
+    "id": "Sydney",
+    "name": "Sydney",
+    "alt_names": [],
+    "is_main": true,
+    "broadcast_area": [
+      "s/AU-NSW"
+    ],
+    "timezones": [
+      "Australia/Sydney"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "UK",
+    "channel": "ZeeOne.uk",
+    "id": "UK",
+    "name": "UK",
+    "alt_names": [],
+    "is_main": true,
+    "broadcast_area": [
+      "c/UK",
+      "r/EUR"
+    ],
+    "timezones": [
+      "Europe/London"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "format": "720p"
+  },
+  {
+    "_id": "HD",
+    "channel": "ZUTV.ro",
+    "id": "HD",
+    "name": "HD",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/RO"
+    ],
+    "timezones": [
+      "Europe/Bucharest"
+    ],
+    "languages": [
+      "ron"
+    ],
+    "format": "1080i"
+  },
+  {
+    "_id": "Plus2",
+    "channel": "WarnerTV.es",
+    "id": "Plus2",
+    "name": "+2",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/ES"
+    ],
+    "timezones": [
+      "Europe/Madrid"
+    ],
+    "languages": [
+      "spa",
+      "eng"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Italy",
+    "channel": "YoungFabulous.us",
+    "id": "Italy",
+    "name": "Italy",
+    "alt_names": [],
+    "is_main": true,
+    "broadcast_area": [
+      "c/IT"
+    ],
+    "timezones": [
+      "Europe/Rome"
+    ],
+    "languages": [
+      "ita"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "HEVC",
+    "channel": "Teledeporte.es",
+    "id": "HEVC",
+    "name": "HEVC",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/ES"
+    ],
+    "timezones": [
+      "Europe/Madrid"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "format": "1080p"
+  },
+  {
+    "_id": "Bulgary",
+    "channel": "FilmBoxStars.nl",
+    "id": "Bulgary",
+    "name": "Bulgary",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/BG"
+    ],
+    "timezones": [
+      "Europe/Amsterdam"
+    ],
+    "languages": [
+      "bul"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Croatia",
+    "channel": "SportKlub6.nl",
+    "id": "Croatia",
+    "name": "Croatia",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/HR"
+    ],
+    "timezones": [
+      "Europe/Zagreb"
+    ],
+    "languages": [
+      "hrv"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Netherlands",
+    "channel": "TV5MondeEurope.fr",
+    "id": "Netherlands",
+    "name": "Netherlands",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/NL"
+    ],
+    "timezones": [
+      "Europe/Amsterdam"
+    ],
+    "languages": [
+      "fra"
+    ],
+    "format": "1080i"
+  },
+  {
+    "_id": "Portugal",
+    "channel": "DAZN6.uk",
+    "id": "Portugal",
+    "name": "Portugal",
+    "alt_names": [],
+    "is_main": true,
+    "broadcast_area": [
+      "c/PT"
+    ],
+    "timezones": [
+      "America/Toronto"
+    ],
+    "languages": [
+      "por"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Serbia",
+    "channel": "SportKlubStart.nl",
+    "id": "Serbia",
+    "name": "Serbia",
+    "alt_names": [],
+    "is_main": true,
+    "broadcast_area": [
+      "c/RS",
+      "c/HU"
+    ],
+    "timezones": [
+      "Europe/Belgrade"
+    ],
+    "languages": [
+      "hun"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Slovenia",
+    "channel": "SportKlub6.nl",
+    "id": "Slovenia",
+    "name": "Slovenia",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/SI"
+    ],
+    "timezones": [
+      "Europe/Ljubljana"
+    ],
+    "languages": [
+      "slv"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Turkiye",
+    "channel": "FilmBox.nl",
+    "id": "Turkiye",
+    "name": "Turkiye",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/TR"
+    ],
+    "timezones": [
+      "Europe/Amsterdam"
+    ],
+    "languages": [
+      "tur"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Plus1",
+    "channel": "WWENetwork.us",
+    "id": "Plus1",
+    "name": "+1",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/US"
+    ],
+    "timezones": [
+      "America/New_York"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "format": "480i"
+  },
+  {
+    "_id": "AU",
+    "channel": "RedBullTV.at",
+    "id": "AU",
+    "name": "AU",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "r/OCE"
+    ],
+    "timezones": [
+      "Australia/Sydney"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "format": "1080p"
+  },
+  {
+    "_id": "CA",
+    "channel": "TotalCrime.ca",
+    "id": "CA",
+    "name": "CA",
+    "alt_names": [],
+    "is_main": true,
+    "broadcast_area": [
+      "c/CA"
+    ],
+    "timezones": [
+      "America/Toronto"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "format": "1080p"
+  },
+  {
+    "_id": "GB",
+    "channel": "48Hours.us",
+    "id": "GB",
+    "name": "GB",
+    "alt_names": [
+      "UK"
+    ],
+    "is_main": false,
+    "broadcast_area": [
+      "c/UK",
+      "c/IE"
+    ],
+    "timezones": [
+      "Europe/London"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "format": "720p"
+  },
+  {
+    "_id": "US",
+    "channel": "XITERockxMetal.nl",
+    "id": "US",
+    "name": "US",
+    "alt_names": [],
+    "is_main": true,
+    "broadcast_area": [
+      "c/US"
+    ],
+    "timezones": [
+      "America/New_York"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "format": "1080p"
+  },
+  {
+    "_id": "East",
+    "channel": "YTV.ca",
+    "id": "East",
+    "name": "East",
+    "alt_names": [],
+    "is_main": true,
+    "broadcast_area": [
+      "c/CA"
+    ],
+    "timezones": [
+      "America/Toronto"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "format": "480i"
+  },
+  {
+    "_id": "West",
+    "channel": "YTV.ca",
+    "id": "West",
+    "name": "West",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/CA"
+    ],
+    "timezones": [
+      "America/Vancouver"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "format": "480i"
+  },
+  {
+    "_id": "Andalucia",
+    "channel": "7TV.es",
+    "id": "Andalucia",
+    "name": "Andalucia",
+    "alt_names": [],
+    "is_main": true,
+    "broadcast_area": [
+      "s/ES-AN"
+    ],
+    "timezones": [
+      "Europe/Madrid"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Bahia",
+    "channel": "7TV.es",
+    "id": "Bahia",
+    "name": "Bahia",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "s/ES-AN"
+    ],
+    "timezones": [
+      "Europe/Madrid"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Cordoba",
+    "channel": "7TV.es",
+    "id": "Cordoba",
+    "name": "Cordoba",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "s/ES-AN"
+    ],
+    "timezones": [
+      "Europe/Madrid"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "CostaNoroeste",
+    "channel": "7TV.es",
+    "id": "CostaNoroeste",
+    "name": "Costa Noroeste",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "s/ES-AN"
+    ],
+    "timezones": [
+      "Europe/Madrid"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Jaen",
+    "channel": "7TV.es",
+    "id": "Jaen",
+    "name": "Jaen",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "s/ES-AN"
+    ],
+    "timezones": [
+      "Europe/Madrid"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Jerez",
+    "channel": "7TV.es",
+    "id": "Jerez",
+    "name": "Jerez",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "s/ES-AN"
+    ],
+    "timezones": [
+      "Europe/Madrid"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Malaga",
+    "channel": "7TV.es",
+    "id": "Malaga",
+    "name": "Malaga",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "s/ES-AN"
+    ],
+    "timezones": [
+      "Europe/Madrid"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Sevilla",
+    "channel": "7TV.es",
+    "id": "Sevilla",
+    "name": "Sevilla",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "s/ES-AN"
+    ],
+    "timezones": [
+      "Europe/Madrid"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Sierra",
+    "channel": "7TV.es",
+    "id": "Sierra",
+    "name": "Sierra",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "s/ES-AN"
+    ],
+    "timezones": [
+      "Asia/Manila"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Central",
+    "channel": "UniMas.us",
+    "id": "Central",
+    "name": "Central",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/US"
+    ],
+    "timezones": [
+      "America/Chicago"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "format": "480i"
+  },
+  {
+    "_id": "Mountain",
+    "channel": "UniMas.us",
+    "id": "Mountain",
+    "name": "Mountain",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/US"
+    ],
+    "timezones": [
+      "America/Denver"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "format": "480i"
+  },
+  {
+    "_id": "Vietnam",
+    "channel": "OutdoorChannel.us",
+    "id": "Vietnam",
+    "name": "Vietnam",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/VN"
+    ],
+    "timezones": [
+      "Asia/Ho_Chi_Minh"
+    ],
+    "languages": [
+      "eng",
+      "vie"
+    ],
+    "format": "1080i"
+  },
+  {
+    "_id": "ACT",
+    "channel": "ABCTV.au",
+    "id": "ACT",
+    "name": "ACT",
+    "alt_names": [
+      "Australian Capital Territory",
+      "Canberra"
+    ],
+    "is_main": false,
+    "broadcast_area": [
+      "s/AU-ACT"
+    ],
+    "timezones": [
+      "Australia/Sydney"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "format": "1080i"
+  },
+  {
+    "_id": "NSW",
+    "channel": "ABCTV.au",
+    "id": "NSW",
+    "name": "NSW",
+    "alt_names": [
+      "New South Wales",
+      "Sydney"
+    ],
+    "is_main": true,
+    "broadcast_area": [
+      "s/AU-NSW"
+    ],
+    "timezones": [
+      "Australia/Sydney"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "format": "1080i"
+  },
+  {
+    "_id": "NT",
+    "channel": "ABCTV.au",
+    "id": "NT",
+    "name": "NT",
+    "alt_names": [
+      "Northern Territory",
+      "Darwin"
+    ],
+    "is_main": false,
+    "broadcast_area": [
+      "s/AU-NT"
+    ],
+    "timezones": [
+      "Australia/Darwin"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "format": "1080i"
+  },
+  {
+    "_id": "QLD",
+    "channel": "ABCTV.au",
+    "id": "QLD",
+    "name": "QLD",
+    "alt_names": [
+      "Queensland",
+      "Brisbane"
+    ],
+    "is_main": false,
+    "broadcast_area": [
+      "s/AU-QLD"
+    ],
+    "timezones": [
+      "Australia/Brisbane"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "format": "1080i"
+  },
+  {
+    "_id": "SA",
+    "channel": "ABCTV.au",
+    "id": "SA",
+    "name": "SA",
+    "alt_names": [
+      "South Australia",
+      "Adelaide"
+    ],
+    "is_main": false,
+    "broadcast_area": [
+      "s/AU-SA"
+    ],
+    "timezones": [
+      "Australia/Adelaide"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "format": "1080i"
+  },
+  {
+    "_id": "TAS",
+    "channel": "ABCTV.au",
+    "id": "TAS",
+    "name": "TAS",
+    "alt_names": [
+      "Tasmania",
+      "Hobart"
+    ],
+    "is_main": false,
+    "broadcast_area": [
+      "s/AU-TAS"
+    ],
+    "timezones": [
+      "Australia/Hobart"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "format": "1080i"
+  },
+  {
+    "_id": "VIC",
+    "channel": "ABCTV.au",
+    "id": "VIC",
+    "name": "VIC",
+    "alt_names": [
+      "Victoria",
+      "Melbourne"
+    ],
+    "is_main": false,
+    "broadcast_area": [
+      "s/AU-VIC"
+    ],
+    "timezones": [
+      "Australia/Melbourne"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "format": "1080i"
+  },
+  {
+    "_id": "WA",
+    "channel": "ABCTV.au",
+    "id": "WA",
+    "name": "WA",
+    "alt_names": [
+      "Western Australia",
+      "Perth"
+    ],
+    "is_main": false,
+    "broadcast_area": [
+      "s/AU-WA"
+    ],
+    "timezones": [
+      "Australia/Perth"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "format": "1080i"
+  },
+  {
+    "_id": "EastHD",
+    "channel": "ThrillerMax.us",
+    "id": "EastHD",
+    "name": "East HD",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/US"
+    ],
+    "timezones": [
+      "America/New_York"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "format": "1080i"
+  },
+  {
+    "_id": "WestHD",
+    "channel": "ThrillerMax.us",
+    "id": "WestHD",
+    "name": "West HD",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/US"
+    ],
+    "timezones": [
+      "America/Los_Angeles"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "format": "1080i"
+  },
+  {
+    "_id": "Germany",
+    "channel": "XITEHits.nl",
+    "id": "Germany",
+    "name": "Germany",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/DE"
+    ],
+    "timezones": [
+      "Europe/Berlin"
+    ],
+    "languages": [
+      "eng",
+      "deu"
+    ],
+    "format": "1080p"
+  },
+  {
+    "_id": "Brazil",
+    "channel": "Younger.us",
+    "id": "Brazil",
+    "name": "Brazil",
+    "alt_names": [],
+    "is_main": true,
+    "broadcast_area": [
+      "c/BR"
+    ],
+    "timezones": [
+      "America/Sao_Paulo"
+    ],
+    "languages": [
+      "por"
+    ],
+    "format": "480i"
+  },
+  {
+    "_id": "Chile",
+    "channel": "WarnerChannel.us",
+    "id": "Chile",
+    "name": "Chile",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/CL"
+    ],
+    "timezones": [
+      "America/Santiago"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "format": "480i"
+  },
+  {
+    "_id": "Mexico",
+    "channel": "WarnerChannel.us",
+    "id": "Mexico",
+    "name": "Mexico",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/MX"
+    ],
+    "timezones": [
+      "America/Mexico_City"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "format": "480i"
+  },
+  {
+    "_id": "Panregional",
+    "channel": "WarnerChannel.us",
+    "id": "Panregional",
+    "name": "Panregional",
+    "alt_names": [],
+    "is_main": true,
+    "broadcast_area": [
+      "c/PE",
+      "c/PA",
+      "c/EC",
+      "c/BO",
+      "r/CENAMER",
+      "r/CARIB"
+    ],
+    "timezones": [
+      "America/New_York"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "format": "480i"
+  },
+  {
+    "_id": "South",
+    "channel": "WarnerChannel.us",
+    "id": "South",
+    "name": "South",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/AR",
+      "c/PY",
+      "c/UY"
+    ],
+    "timezones": [
+      "America/New_York"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "format": "480i"
+  },
+  {
+    "_id": "Venezuela",
+    "channel": "WarnerChannel.us",
+    "id": "Venezuela",
+    "name": "Venezuela",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/VE"
+    ],
+    "timezones": [
+      "America/Caracas"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "format": "480i"
+  },
+  {
+    "_id": "Poland",
+    "channel": "WorldPokerTour.us",
+    "id": "Poland",
+    "name": "Poland",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/PL"
+    ],
+    "timezones": [
+      "Europe/Warsaw"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Inter",
+    "channel": "AlAoula.ma",
+    "id": "Inter",
+    "name": "Inter",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/MA"
+    ],
+    "timezones": [
+      "Africa/Casablanca"
+    ],
+    "languages": [
+      "ara",
+      "fra",
+      "spa"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "InterHD",
+    "channel": "AlAoula.ma",
+    "id": "InterHD",
+    "name": "Inter HD",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/MA"
+    ],
+    "timezones": [
+      "Africa/Casablanca"
+    ],
+    "languages": [
+      "ara",
+      "fra",
+      "spa"
+    ],
+    "format": "1080p"
+  },
+  {
+    "_id": "MiddleEast",
+    "channel": "BloombergTV.us",
+    "id": "MiddleEast",
+    "name": "Middle East",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "r/MIDEAST"
+    ],
+    "timezones": [
+      "Asia/Dubai"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Canada",
+    "channel": "WalkerTexasRanger.us",
+    "id": "Canada",
+    "name": "Canada",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/CA"
+    ],
+    "timezones": [
+      "America/Toronto"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "France",
+    "channel": "Yaquelaveritequicompte.us",
+    "id": "France",
+    "name": "France",
+    "alt_names": [],
+    "is_main": true,
+    "broadcast_area": [
+      "c/FR"
+    ],
+    "timezones": [
+      "Europe/Paris"
+    ],
+    "languages": [
+      "fra"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Arabic",
+    "channel": "GodStandsTV.pk",
+    "id": "Arabic",
+    "name": "Arabic",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/PK"
+    ],
+    "timezones": [
+      "Asia/Karachi"
+    ],
+    "languages": [
+      "ara"
+    ],
+    "format": "480i"
+  },
+  {
+    "_id": "ArabicHD",
+    "channel": "AlJazeera.qa",
+    "id": "ArabicHD",
+    "name": "Arabic HD",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "r/ARAB"
+    ],
+    "timezones": [
+      "Asia/Qatar"
+    ],
+    "languages": [
+      "ara"
+    ],
+    "format": "1080i"
+  },
+  {
+    "_id": "English",
+    "channel": "TerraMaterWILD.de",
+    "id": "English",
+    "name": "English",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/US",
+      "c/UK"
+    ],
+    "timezones": [
+      "Europe/Berlin"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "format": "1080p"
+  },
+  {
+    "_id": "EnglishHD",
+    "channel": "Telesur.ve",
+    "id": "EnglishHD",
+    "name": "English HD",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/VE",
+      "r/AMER",
+      "r/SSA",
+      "r/EUR"
+    ],
+    "timezones": [
+      "America/Caracas"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "format": "1080p"
+  },
+  {
+    "_id": "CzechRepublic",
+    "channel": "FilmBoxStars.nl",
+    "id": "CzechRepublic",
+    "name": "Czech Republic",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/CZ",
+      "c/SK"
+    ],
+    "timezones": [
+      "Europe/Amsterdam"
+    ],
+    "languages": [
+      "ces"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Hungary",
+    "channel": "TravelChannelEMEA.uk",
+    "id": "Hungary",
+    "name": "Hungary",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/HU"
+    ],
+    "timezones": [
+      "Europe/Budapest"
+    ],
+    "languages": [
+      "hun"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Romania",
+    "channel": "FilmCafe.hu",
+    "id": "Romania",
+    "name": "Romania",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/RO"
+    ],
+    "timezones": [
+      "Europe/Bucharest"
+    ],
+    "languages": [
+      "rom"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "SloveniaHD",
+    "channel": "TravelChannelEMEA.uk",
+    "id": "SloveniaHD",
+    "name": "SloveniaHD",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/SI"
+    ],
+    "timezones": [
+      "Europe/Ljubljana"
+    ],
+    "languages": [
+      "slv"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Spain",
+    "channel": "WorldPokerTour.us",
+    "id": "Spain",
+    "name": "Spain",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/ES"
+    ],
+    "timezones": [
+      "Europe/Madrid"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "International",
+    "channel": "MuzykaKino.ru",
+    "id": "International",
+    "name": "International",
+    "alt_names": [],
+    "is_main": true,
+    "broadcast_area": [
+      "c/RU"
+    ],
+    "timezones": [
+      "Europe/Moscow"
+    ],
+    "languages": [
+      "rus"
+    ],
+    "format": "480p"
+  },
+  {
+    "_id": "Africa",
+    "channel": "FilmBoxFamily.nl",
+    "id": "Africa",
+    "name": "Africa",
+    "alt_names": [],
+    "is_main": true,
+    "broadcast_area": [
+      "r/AFR"
+    ],
+    "timezones": [
+      "Europe/Amsterdam"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "America",
+    "channel": "AngelTV.in",
+    "id": "America",
+    "name": "America",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "r/NAM"
+    ],
+    "timezones": [
+      "Asia/Kolkata"
+    ],
+    "languages": [
+      "tam"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Arabia",
+    "channel": "AngelTV.in",
+    "id": "Arabia",
+    "name": "Arabia",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "r/ARAB"
+    ],
+    "timezones": [
+      "Asia/Kolkata"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Australia",
+    "channel": "ZeeBollymovies.in",
+    "id": "Australia",
+    "name": "Australia",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/IN",
+      "c/AU",
+      "c/NZ"
+    ],
+    "timezones": [
+      "Asia/Kolkata"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Chinese",
+    "channel": "GodStandsTV.pk",
+    "id": "Chinese",
+    "name": "Chinese",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/PK"
+    ],
+    "timezones": [
+      "Asia/Karachi"
+    ],
+    "languages": [
+      "zho"
+    ],
+    "format": "480i"
+  },
+  {
+    "_id": "Europe",
+    "channel": "ShalomWorld.us",
+    "id": "Europe",
+    "name": "Europe",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "r/EUR"
+    ],
+    "timezones": [
+      "Europe/London"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "format": "480i"
+  },
+  {
+    "_id": "FarEast",
+    "channel": "AngelTV.in",
+    "id": "FarEast",
+    "name": "FarEast",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "r/SEA"
+    ],
+    "timezones": [
+      "Asia/Kolkata"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Hebrew",
+    "channel": "AngelTV.in",
+    "id": "Hebrew",
+    "name": "Hebrew",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/IL"
+    ],
+    "timezones": [
+      "Asia/Kolkata"
+    ],
+    "languages": [
+      "heb"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "India",
+    "channel": "ThePetCollective.us",
+    "id": "India",
+    "name": "India",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/IN"
+    ],
+    "timezones": [
+      "Asia/Kolkata"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "IndoChina",
+    "channel": "AngelTV.in",
+    "id": "IndoChina",
+    "name": "Indo-China",
+    "alt_names": [
+      "Sawadee"
+    ],
+    "is_main": false,
+    "broadcast_area": [
+      "r/SEA"
+    ],
+    "timezones": [
+      "Asia/Kolkata"
+    ],
+    "languages": [
+      "tam",
+      "eng"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Indonesia",
+    "channel": "NickelodeonAsia.sg",
+    "id": "Indonesia",
+    "name": "Indonesia",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/ID"
+    ],
+    "timezones": [
+      "Asia/Singapore"
+    ],
+    "languages": [
+      "ind",
+      "eng"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Nepal",
+    "channel": "AngelTV.in",
+    "id": "Nepal",
+    "name": "Nepal",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/NP"
+    ],
+    "timezones": [
+      "Asia/Kolkata"
+    ],
+    "languages": [
+      "nep"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Portuguese",
+    "channel": "FIFAPlus.uk",
+    "id": "Portuguese",
+    "name": "Portuguese",
+    "alt_names": [
+      "Brasil"
+    ],
+    "is_main": false,
+    "broadcast_area": [
+      "c/BR",
+      "c/PT"
+    ],
+    "timezones": [
+      "America/Sao_Paulo",
+      "Europe/Lisbon"
+    ],
+    "languages": [
+      "por"
+    ],
+    "format": "720p"
+  },
+  {
+    "_id": "Russian",
+    "channel": "RTDocumentary.ru",
+    "id": "Russian",
+    "name": "Russian",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/RU"
+    ],
+    "timezones": [
+      "Europe/Moscow"
+    ],
+    "languages": [
+      "rus"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Spanish",
+    "channel": "France24.fr",
+    "id": "Spanish",
+    "name": "Spanish",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "r/HISPAM",
+      "c/ES"
+    ],
+    "timezones": [
+      "America/Bogota"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Greece",
+    "channel": "ViasatTrueCrime.pl",
+    "id": "Greece",
+    "name": "Greece",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/GR"
+    ],
+    "timezones": [
+      "Europe/Athens"
+    ],
+    "languages": [
+      "eng",
+      "ell"
+    ],
+    "format": "1080i"
+  },
+  {
+    "_id": "RomaniaHD",
+    "channel": "Eurosport2.fr",
+    "id": "RomaniaHD",
+    "name": "Romania HD",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/RO"
+    ],
+    "timezones": [
+      "Europe/Bucharest"
+    ],
+    "languages": [
+      "rom"
+    ],
+    "format": "1080i"
+  },
+  {
+    "_id": "HongKong",
+    "channel": "beINSports2.qa",
+    "id": "HongKong",
+    "name": "Hong Kong",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/HK"
+    ],
+    "timezones": [
+      "Asia/Hong_Kong"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Philippines",
+    "channel": "INTRAVEL.nl",
+    "id": "Philippines",
+    "name": "Philippines",
+    "alt_names": [],
+    "is_main": true,
+    "broadcast_area": [
+      "c/PH"
+    ],
+    "timezones": [
+      "Asia/Manila"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "format": "720p"
+  },
+  {
+    "_id": "Taiwan",
+    "channel": "TravelChannelAsia.sg",
+    "id": "Taiwan",
+    "name": "Taiwan",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/TW"
+    ],
+    "timezones": [
+      "Asia/Taipei"
+    ],
+    "languages": [
+      "eng",
+      "cmn"
+    ],
+    "format": "480i"
+  },
+  {
+    "_id": "Canarias",
+    "channel": "Antena3.es",
+    "id": "Canarias",
+    "name": "Canarias",
+    "alt_names": [
+      "A3C"
+    ],
+    "is_main": false,
+    "broadcast_area": [
+      "s/ES-CN"
+    ],
+    "timezones": [
+      "Atlantic/Canary"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "format": "1080i"
+  },
+  {
+    "_id": "National",
+    "channel": "France3.fr",
+    "id": "National",
+    "name": "National",
+    "alt_names": [],
+    "is_main": true,
+    "broadcast_area": [
+      "c/FR"
+    ],
+    "timezones": [
+      "Europe/Paris"
+    ],
+    "languages": [
+      "fra"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "HDTNT",
+    "channel": "Arryadia.ma",
+    "id": "HDTNT",
+    "name": "HD TNT",
+    "alt_names": [
+      "الأرظية"
+    ],
+    "is_main": false,
+    "broadcast_area": [
+      "c/MA"
+    ],
+    "timezones": [
+      "Africa/Casablanca"
+    ],
+    "languages": [
+      "ara"
+    ],
+    "format": "1080p"
+  },
+  {
+    "_id": "TNT",
+    "channel": "Arryadia.ma",
+    "id": "TNT",
+    "name": "TNT",
+    "alt_names": [
+      "الأرظية"
+    ],
+    "is_main": false,
+    "broadcast_area": [
+      "c/MA"
+    ],
+    "timezones": [
+      "Africa/Casablanca"
+    ],
+    "languages": [
+      "ara"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Asia",
+    "channel": "RTRPlaneta.ru",
+    "id": "Asia",
+    "name": "Asia",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "r/ASIA"
+    ],
+    "timezones": [
+      "Europe/Moscow"
+    ],
+    "languages": [
+      "rus"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "UAE",
+    "channel": "ARYDigital.pk",
+    "id": "UAE",
+    "name": "UAE",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/AE"
+    ],
+    "timezones": [
+      "Asia/Karachi"
+    ],
+    "languages": [
+      "urd"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "USA",
+    "channel": "TVPPolonia.pl",
+    "id": "USA",
+    "name": "USA",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/US"
+    ],
+    "timezones": [
+      "America/New_York"
+    ],
+    "languages": [
+      "pol"
+    ],
+    "format": "1080p"
+  },
+  {
+    "_id": "Pakistan",
+    "channel": "ARYNews.pk",
+    "id": "Pakistan",
+    "name": "Pakistan",
+    "alt_names": [],
+    "is_main": true,
+    "broadcast_area": [
+      "c/PK"
+    ],
+    "timezones": [
+      "Asia/Karachi"
+    ],
+    "languages": [
+      "urd"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "UKEurope",
+    "channel": "ARYNews.pk",
+    "id": "UKEurope",
+    "name": "UK & Europe",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/PK"
+    ],
+    "timezones": [
+      "Asia/Karachi"
+    ],
+    "languages": [
+      "urd"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "UHD",
+    "channel": "SkySportBundesliga.de",
+    "id": "UHD",
+    "name": "UHD",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/DE"
+    ],
+    "timezones": [
+      "Europe/Berlin"
+    ],
+    "languages": [
+      "deu"
+    ],
+    "format": "2160p"
+  },
+  {
+    "_id": "Malaysia",
+    "channel": "KTV.in",
+    "id": "Malaysia",
+    "name": "Malaysia",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/MY"
+    ],
+    "timezones": [
+      "Asia/Kuala_Lumpur"
+    ],
+    "languages": [
+      "tam"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Pacific",
+    "channel": "TNTLatinAmerica.us",
+    "id": "Pacific",
+    "name": "Pacific",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/CL",
+      "c/PE",
+      "c/EC",
+      "c/BO"
+    ],
+    "timezones": [
+      "America/New_York"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "format": "480i"
+  },
+  {
+    "_id": "Singapore",
+    "channel": "DisneyChannelSoutheastAsia.sg",
+    "id": "Singapore",
+    "name": "Singapore",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/SG"
+    ],
+    "timezones": [
+      "Asia/Singapore"
+    ],
+    "languages": [
+      "zho",
+      "eng"
+    ],
+    "format": "480i"
+  },
+  {
+    "_id": "Thailand",
+    "channel": "beINSports3.qa",
+    "id": "Thailand",
+    "name": "Thailand",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/TH"
+    ],
+    "timezones": [
+      "Asia/Bangkok"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Angola",
+    "channel": "AXNBlack.us",
+    "id": "Angola",
+    "name": "Angola",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/AO"
+    ],
+    "timezones": [
+      "America/New_York"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Mozambique",
+    "channel": "AXNBlack.us",
+    "id": "Mozambique",
+    "name": "Mozambique",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/MZ"
+    ],
+    "timezones": [
+      "America/New_York"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Andes",
+    "channel": "ELatinAmerica.us",
+    "id": "Andes",
+    "name": "Andes",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/PE",
+      "c/EC",
+      "c/BO",
+      "c/VE",
+      "r/CENAMER",
+      "c/DO",
+      "r/CARIB"
+    ],
+    "timezones": [
+      "America/New_York"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "format": "480i"
+  },
+  {
+    "_id": "CentralAmerica",
+    "channel": "TelemundoInternacional.us",
+    "id": "CentralAmerica",
+    "name": "Central America",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "r/CENAMER"
+    ],
+    "timezones": [
+      "America/New_York"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "format": "480i"
+  },
+  {
+    "_id": "Bulgaria",
+    "channel": "AXNWhite.us",
+    "id": "Bulgaria",
+    "name": "Bulgaria",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/BG"
+    ],
+    "timezones": [
+      "Europe/Sofia"
+    ],
+    "languages": [
+      "bul"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Minus2",
+    "channel": "AzadTV.az",
+    "id": "Minus2",
+    "name": "-2",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/AZ"
+    ],
+    "timezones": [
+      "Asia/Baku"
+    ],
+    "languages": [
+      "aze"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Minus4",
+    "channel": "AzadTV.az",
+    "id": "Minus4",
+    "name": "-4",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/AZ"
+    ],
+    "timezones": [
+      "Asia/Baku"
+    ],
+    "languages": [
+      "aze"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Coahuila",
+    "channel": "Azteca7.mx",
+    "id": "Coahuila",
+    "name": "Coahuila",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "s/MX-COA"
+    ],
+    "timezones": [
+      "America/Mexico_City"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "format": "480i"
+  },
+  {
+    "_id": "MexicoCity",
+    "channel": "Azteca7.mx",
+    "id": "MexicoCity",
+    "name": "Mexico City",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "s/MX-CMX"
+    ],
+    "timezones": [
+      "America/Mexico_City"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "format": "480i"
+  },
+  {
+    "_id": "NuevoLeon",
+    "channel": "Azteca7.mx",
+    "id": "NuevoLeon",
+    "name": "Nuevo Leon",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "s/MX-NLE"
+    ],
+    "timezones": [
+      "America/Mexico_City"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "format": "480i"
+  },
+  {
+    "_id": "Tamaulipas",
+    "channel": "Azteca7.mx",
+    "id": "Tamaulipas",
+    "name": "Tamaulipas",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "s/MX-TAM"
+    ],
+    "timezones": [
+      "America/Mexico_City"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "format": "480i"
+  },
+  {
+    "_id": "APAC",
+    "channel": "ZeeThirai.in",
+    "id": "APAC",
+    "name": "APAC",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "r/APAC"
+    ],
+    "timezones": [
+      "Asia/Singapore"
+    ],
+    "languages": [
+      "tam"
+    ],
+    "format": "1080p"
+  },
+  {
+    "_id": "FranceHD",
+    "channel": "Eurosport2.fr",
+    "id": "FranceHD",
+    "name": "France HD",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/FR"
+    ],
+    "timezones": [
+      "Europe/Paris"
+    ],
+    "languages": [
+      "fra"
+    ],
+    "format": "1080i"
+  },
+  {
+    "_id": "Israel",
+    "channel": "BabyTV.uk",
+    "id": "Israel",
+    "name": "Israel",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/IL"
+    ],
+    "timezones": [
+      "America/Toronto"
+    ],
+    "languages": [
+      "heb"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "NetherlandsHD",
+    "channel": "Eurosport2.fr",
+    "id": "NetherlandsHD",
+    "name": "Netherlands HD",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/NL"
+    ],
+    "timezones": [
+      "Europe/Amsterdam"
+    ],
+    "languages": [
+      "nld"
+    ],
+    "format": "1080i"
+  },
+  {
+    "_id": "UKHD",
+    "channel": "TravelChannelEMEA.uk",
+    "id": "UKHD",
+    "name": "UK HD",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/UK"
+    ],
+    "timezones": [
+      "Europe/London"
+    ],
+    "languages": [
+      "eng",
+      "ces",
+      "bul",
+      "hun",
+      "ell",
+      "rus",
+      "ukr"
+    ],
+    "format": "1080i"
+  },
+  {
+    "_id": "Denmark",
+    "channel": "WalkerTexasRanger.us",
+    "id": "Denmark",
+    "name": "Denmark",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/DK"
+    ],
+    "timezones": [
+      "Europe/Copenhagen"
+    ],
+    "languages": [
+      "eng",
+      "dan"
+    ],
+    "format": "720p"
+  },
+  {
+    "_id": "Finland",
+    "channel": "VSportPlus.se",
+    "id": "Finland",
+    "name": "Finland",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/FI"
+    ],
+    "timezones": [
+      "Europe/Helsinki"
+    ],
+    "languages": [
+      "fin"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Iceland",
+    "channel": "BBCBrit.uk",
+    "id": "Iceland",
+    "name": "Iceland",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/IS"
+    ],
+    "timezones": [
+      "America/Toronto"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Norway",
+    "channel": "WalkerTexasRanger.us",
+    "id": "Norway",
+    "name": "Norway",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/NO"
+    ],
+    "timezones": [
+      "Europe/Oslo"
+    ],
+    "languages": [
+      "eng",
+      "nor"
+    ],
+    "format": "720p"
+  },
+  {
+    "_id": "Sweden",
+    "channel": "WalkerTexasRanger.us",
+    "id": "Sweden",
+    "name": "Sweden",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/SE"
+    ],
+    "timezones": [
+      "Europe/Stockholm"
+    ],
+    "languages": [
+      "eng",
+      "swe"
+    ],
+    "format": "720p"
+  },
+  {
+    "_id": "AsiaHD",
+    "channel": "Eurosport.fr",
+    "id": "AsiaHD",
+    "name": "AsiaHD",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "r/SEA"
+    ],
+    "timezones": [
+      "Europe/Paris"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "format": "1080i"
+  },
+  {
+    "_id": "LatinAmerica",
+    "channel": "DiscoveryWorld.us",
+    "id": "LatinAmerica",
+    "name": "Latin America",
+    "alt_names": [],
+    "is_main": true,
+    "broadcast_area": [
+      "r/HISPAM"
+    ],
+    "timezones": [
+      "America/New_York"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "format": "480i"
+  },
+  {
+    "_id": "NewZealand",
+    "channel": "MTVClassic.au",
+    "id": "NewZealand",
+    "name": "New Zealand",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/NZ"
+    ],
+    "timezones": [
+      "America/Toronto"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Nordic",
+    "channel": "BBCEarth.uk",
+    "id": "Nordic",
+    "name": "Nordic",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "r/NORD"
+    ],
+    "timezones": [
+      "America/Toronto"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Benelux",
+    "channel": "BBCFirst.uk",
+    "id": "Benelux",
+    "name": "Benelux",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "r/BENELUX"
+    ],
+    "timezones": [
+      "America/Toronto"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Ireland",
+    "channel": "GREATromance.uk",
+    "id": "Ireland",
+    "name": "Ireland",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/IE"
+    ],
+    "timezones": [
+      "Europe/Dublin"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "IrelandHD",
+    "channel": "SkySportsRacing.uk",
+    "id": "IrelandHD",
+    "name": "Ireland HD",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/IE"
+    ],
+    "timezones": [
+      "Europe/Dublin"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "format": "1080i"
+  },
+  {
+    "_id": "MENA",
+    "channel": "CNNInternational.us",
+    "id": "MENA",
+    "name": "MENA",
+    "alt_names": [],
+    "is_main": true,
+    "broadcast_area": [
+      "r/MENA"
+    ],
+    "timezones": [
+      "America/New_York"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "format": "480i"
+  },
+  {
+    "_id": "AsiaPacific",
+    "channel": "EWTN.us",
+    "id": "AsiaPacific",
+    "name": "Asia-Pacific",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "r/APAC"
+    ],
+    "timezones": [
+      "America/New_York"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "format": "480i"
+  },
+  {
+    "_id": "NorthAmerica",
+    "channel": "ShalomWorld.us",
+    "id": "NorthAmerica",
+    "name": "North America",
+    "alt_names": [],
+    "is_main": true,
+    "broadcast_area": [
+      "r/NORAM"
+    ],
+    "timezones": [
+      "America/New_York"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "format": "480i"
+  },
+  {
+    "_id": "SouthAsia",
+    "channel": "CNNInternational.us",
+    "id": "SouthAsia",
+    "name": "South Asia",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "r/SAS"
+    ],
+    "timezones": [
+      "Asia/Kolkata"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "format": "480i"
+  },
+  {
+    "_id": "Cambridgeshire",
+    "channel": "ThatsTV.uk",
+    "id": "Cambridgeshire",
+    "name": "Cambridgeshire",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/UK"
+    ],
+    "timezones": [
+      "Europe/London"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "CambridgeshireHD",
+    "channel": "BBCOne.uk",
+    "id": "CambridgeshireHD",
+    "name": "Cambridgeshire HD",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/UK"
+    ],
+    "timezones": [
+      "Europe/London"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "format": "1080i"
+  },
+  {
+    "_id": "ChannelIslands",
+    "channel": "BBCOne.uk",
+    "id": "ChannelIslands",
+    "name": "Channel Islands",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/GG"
+    ],
+    "timezones": [
+      "Europe/London"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "ChannelIslandsHD",
+    "channel": "BBCOne.uk",
+    "id": "ChannelIslandsHD",
+    "name": "Channel Islands HD",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/GG"
+    ],
+    "timezones": [
+      "Europe/London"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "format": "1080i"
+  },
+  {
+    "_id": "EastMidlands",
+    "channel": "BBCOne.uk",
+    "id": "EastMidlands",
+    "name": "East Midlands",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/UK"
+    ],
+    "timezones": [
+      "Europe/London"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "EastMidlandsHD",
+    "channel": "BBCOne.uk",
+    "id": "EastMidlandsHD",
+    "name": "East Midlands HD",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/UK"
+    ],
+    "timezones": [
+      "Europe/London"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "format": "1080i"
+  },
+  {
+    "_id": "London",
+    "channel": "ITV1.uk",
+    "id": "London",
+    "name": "London",
+    "alt_names": [],
+    "is_main": true,
+    "broadcast_area": [
+      "c/UK"
+    ],
+    "timezones": [
+      "Europe/London"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "LondonHD",
+    "channel": "ITV1.uk",
+    "id": "LondonHD",
+    "name": "London HD",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/UK"
+    ],
+    "timezones": [
+      "Europe/London"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "format": "1080i"
+  },
+  {
+    "_id": "NorthEastCumbria",
+    "channel": "BBCOne.uk",
+    "id": "NorthEastCumbria",
+    "name": "North East & Cumbria",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/UK"
+    ],
+    "timezones": [
+      "Europe/London"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "NorthEastCumbriaHD",
+    "channel": "BBCOne.uk",
+    "id": "NorthEastCumbriaHD",
+    "name": "North East & Cumbria HD",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/UK"
+    ],
+    "timezones": [
+      "Europe/London"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "format": "1080i"
+  },
+  {
+    "_id": "NorthernIreland",
+    "channel": "BBCTwo.uk",
+    "id": "NorthernIreland",
+    "name": "Northern Ireland",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/UK"
+    ],
+    "timezones": [
+      "Europe/London"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "NorthernIrelandHD",
+    "channel": "BBCTwo.uk",
+    "id": "NorthernIrelandHD",
+    "name": "Northern Ireland HD",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/UK"
+    ],
+    "timezones": [
+      "Europe/London"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "format": "1080i"
+  },
+  {
+    "_id": "NorthWest",
+    "channel": "BBCOne.uk",
+    "id": "NorthWest",
+    "name": "North West",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/UK"
+    ],
+    "timezones": [
+      "Europe/London"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "NorthWestHD",
+    "channel": "BBCOne.uk",
+    "id": "NorthWestHD",
+    "name": "North West HD",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/UK"
+    ],
+    "timezones": [
+      "Europe/London"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "format": "1080i"
+  },
+  {
+    "_id": "Oxfordshire",
+    "channel": "ThatsTV.uk",
+    "id": "Oxfordshire",
+    "name": "Oxfordshire",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/UK"
+    ],
+    "timezones": [
+      "Europe/London"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "OxfordshireHD",
+    "channel": "BBCOne.uk",
+    "id": "OxfordshireHD",
+    "name": "Oxfordshire HD",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/UK"
+    ],
+    "timezones": [
+      "Europe/London"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "format": "1080i"
+  },
+  {
+    "_id": "Scotland",
+    "channel": "BBCOne.uk",
+    "id": "Scotland",
+    "name": "Scotland",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/UK"
+    ],
+    "timezones": [
+      "Europe/London"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "ScotlandHD",
+    "channel": "BBCOne.uk",
+    "id": "ScotlandHD",
+    "name": "Scotland HD",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/UK"
+    ],
+    "timezones": [
+      "Europe/London"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "format": "1080i"
+  },
+  {
+    "_id": "SouthEast",
+    "channel": "BBCOne.uk",
+    "id": "SouthEast",
+    "name": "South East",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/UK"
+    ],
+    "timezones": [
+      "Europe/London"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "SouthEastHD",
+    "channel": "BBCOne.uk",
+    "id": "SouthEastHD",
+    "name": "South East HD",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/UK"
+    ],
+    "timezones": [
+      "Europe/London"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "format": "1080i"
+  },
+  {
+    "_id": "SouthHD",
+    "channel": "DisneyJrLatinAmerica.ar",
+    "id": "SouthHD",
+    "name": "South HD",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/AR",
+      "c/CL",
+      "c/PY",
+      "c/UY",
+      "c/BO",
+      "c/PE",
+      "c/EC"
+    ],
+    "timezones": [
+      "America/Argentina/Buenos_Aires",
+      "America/Santiago"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "format": "1080i"
+  },
+  {
+    "_id": "SouthWest",
+    "channel": "BBCOne.uk",
+    "id": "SouthWest",
+    "name": "South West",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/UK"
+    ],
+    "timezones": [
+      "Europe/London"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "SouthWestHD",
+    "channel": "BBCOne.uk",
+    "id": "SouthWestHD",
+    "name": "South West HD",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/UK"
+    ],
+    "timezones": [
+      "Europe/London"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "format": "1080i"
+  },
+  {
+    "_id": "Wales",
+    "channel": "ITV1.uk",
+    "id": "Wales",
+    "name": "Wales",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/UK"
+    ],
+    "timezones": [
+      "Europe/London"
+    ],
+    "languages": [
+      "eng",
+      "cym"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "WalesHD",
+    "channel": "ITV1.uk",
+    "id": "WalesHD",
+    "name": "Wales HD",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/UK"
+    ],
+    "timezones": [
+      "Europe/London"
+    ],
+    "languages": [
+      "eng",
+      "cym"
+    ],
+    "format": "1080i"
+  },
+  {
+    "_id": "WestMidlands",
+    "channel": "BBCOne.uk",
+    "id": "WestMidlands",
+    "name": "West Midlands",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/UK"
+    ],
+    "timezones": [
+      "Europe/London"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "WestMidlandsHD",
+    "channel": "BBCOne.uk",
+    "id": "WestMidlandsHD",
+    "name": "West Midlands HD",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/UK"
+    ],
+    "timezones": [
+      "Europe/London"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "format": "1080i"
+  },
+  {
+    "_id": "Yorkshire",
+    "channel": "ITV1.uk",
+    "id": "Yorkshire",
+    "name": "Yorkshire",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/UK"
+    ],
+    "timezones": [
+      "Europe/London"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "YorkshireHD",
+    "channel": "ITV1.uk",
+    "id": "YorkshireHD",
+    "name": "Yorkshire HD",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/UK"
+    ],
+    "timezones": [
+      "Europe/London"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "format": "1080i"
+  },
+  {
+    "_id": "YorkshireLincolnshire",
+    "channel": "BBCOne.uk",
+    "id": "YorkshireLincolnshire",
+    "name": "Yorkshire & Lincolnshire",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/UK"
+    ],
+    "timezones": [
+      "Europe/London"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "YorkshireLincolnshireHD",
+    "channel": "BBCOne.uk",
+    "id": "YorkshireLincolnshireHD",
+    "name": "Yorkshire & Lincolnshire HD",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/UK"
+    ],
+    "timezones": [
+      "Europe/London"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "format": "1080i"
+  },
+  {
+    "_id": "HDFreeview",
+    "channel": "BBCScotland.uk",
+    "id": "HDFreeview",
+    "name": "HD Freeview",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/UK"
+    ],
+    "timezones": [
+      "Europe/London"
+    ],
+    "languages": [
+      "eng",
+      "gla"
+    ],
+    "format": "1080i"
+  },
+  {
+    "_id": "England",
+    "channel": "BBCTwo.uk",
+    "id": "England",
+    "name": "England",
+    "alt_names": [],
+    "is_main": true,
+    "broadcast_area": [
+      "c/UK"
+    ],
+    "timezones": [
+      "Europe/London"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "AustraliaPlus2",
+    "channel": "DiscoveryTurbo.au",
+    "id": "AustraliaPlus2",
+    "name": "Australia +2",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/AU"
+    ],
+    "timezones": [
+      "Australia/Sydney"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Brest",
+    "channel": "Belarus4.by",
+    "id": "Brest",
+    "name": "Brest",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/BY"
+    ],
+    "timezones": [
+      "Europe/Minsk"
+    ],
+    "languages": [
+      "rus"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Gomel",
+    "channel": "Belarus4.by",
+    "id": "Gomel",
+    "name": "Gomel",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/BY"
+    ],
+    "timezones": [
+      "Europe/Minsk"
+    ],
+    "languages": [
+      "rus"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Grodno",
+    "channel": "Belarus4.by",
+    "id": "Grodno",
+    "name": "Grodno",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/BY"
+    ],
+    "timezones": [
+      "Europe/Minsk"
+    ],
+    "languages": [
+      "rus"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Minsk",
+    "channel": "Belarus4.by",
+    "id": "Minsk",
+    "name": "Minsk",
+    "alt_names": [],
+    "is_main": true,
+    "broadcast_area": [
+      "c/BY"
+    ],
+    "timezones": [
+      "Europe/Minsk"
+    ],
+    "languages": [
+      "rus"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Mogilev",
+    "channel": "Belarus4.by",
+    "id": "Mogilev",
+    "name": "Mogilev",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/BY"
+    ],
+    "timezones": [
+      "Europe/Minsk"
+    ],
+    "languages": [
+      "rus"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Vitebsk",
+    "channel": "Belarus4.by",
+    "id": "Vitebsk",
+    "name": "Vitebsk",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/BY"
+    ],
+    "timezones": [
+      "Europe/Minsk"
+    ],
+    "languages": [
+      "rus"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Internet",
+    "channel": "Belarus5.by",
+    "id": "Internet",
+    "name": "Internet",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/BY"
+    ],
+    "timezones": [
+      "Europe/Minsk"
+    ],
+    "languages": [
+      "rus"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Caribbean",
+    "channel": "GameShowNetwork.us",
+    "id": "Caribbean",
+    "name": "Caribbean",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/US"
+    ],
+    "timezones": [
+      "America/New_York"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "format": "480i"
+  },
+  {
+    "_id": "Freeview",
+    "channel": "TinyPop.uk",
+    "id": "Freeview",
+    "name": "Freeview",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/UK"
+    ],
+    "timezones": [
+      "Europe/London"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "AsiaLiveEvent",
+    "channel": "BloombergTV.us",
+    "id": "AsiaLiveEvent",
+    "name": "Asia Live Event",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "r/APAC"
+    ],
+    "timezones": [
+      "Asia/Hong_Kong"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "EMEALiveEvent",
+    "channel": "BloombergTV.us",
+    "id": "EMEALiveEvent",
+    "name": "EMEA Live Event",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "r/EMEA"
+    ],
+    "timezones": [
+      "Europe/London"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "EuropeHD",
+    "channel": "BloombergTV.us",
+    "id": "EuropeHD",
+    "name": "Europe HD",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "r/EUR"
+    ],
+    "timezones": [
+      "Europe/London"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "format": "1080i"
+  },
+  {
+    "_id": "LiveEvent",
+    "channel": "BloombergTV.us",
+    "id": "LiveEvent",
+    "name": "Live Event",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/US"
+    ],
+    "timezones": [
+      "America/New_York"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "format": "480i"
+  },
+  {
+    "_id": "Plus",
+    "channel": "BloombergTV.us",
+    "id": "Plus",
+    "name": "+",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "r/WW"
+    ],
+    "timezones": [
+      "America/New_York"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "format": "2160p"
+  },
+  {
+    "_id": "PoliticsLiveEvent",
+    "channel": "BloombergTV.us",
+    "id": "PoliticsLiveEvent",
+    "name": "Politics Live Event",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/US"
+    ],
+    "timezones": [
+      "America/New_York"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "format": "480i"
+  },
+  {
+    "_id": "LATAM",
+    "channel": "PlutoTVAnime.us",
+    "id": "LATAM",
+    "name": "LATAM",
+    "alt_names": [
+      "Hispanic America"
+    ],
+    "is_main": false,
+    "broadcast_area": [
+      "r/HISPAM"
+    ],
+    "timezones": [
+      "America/New_York"
+    ],
+    "languages": [
+      "jap",
+      "spa"
+    ],
+    "format": "720p"
+  },
+  {
+    "_id": "Russia",
+    "channel": "FilmBox.nl",
+    "id": "Russia",
+    "name": "Russia",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/RU"
+    ],
+    "timezones": [
+      "Europe/Amsterdam"
+    ],
+    "languages": [
+      "rus"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Nord",
+    "channel": "BRFernsehen.de",
+    "id": "Nord",
+    "name": "Nord",
+    "alt_names": [],
+    "is_main": true,
+    "broadcast_area": [
+      "s/DE-BY"
+    ],
+    "timezones": [
+      "Europe/Berlin"
+    ],
+    "languages": [
+      "deu"
+    ],
+    "format": "1080p"
+  },
+  {
+    "_id": "Sud",
+    "channel": "BRFernsehen.de",
+    "id": "Sud",
+    "name": "Sud",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "s/DE-BY"
+    ],
+    "timezones": [
+      "Europe/Berlin"
+    ],
+    "languages": [
+      "deu"
+    ],
+    "format": "1080p"
+  },
+  {
+    "_id": "FAST",
+    "channel": "wedotvAuta.pl",
+    "id": "FAST",
+    "name": "FAST",
+    "alt_names": [],
+    "is_main": true,
+    "broadcast_area": [
+      "c/PL"
+    ],
+    "timezones": [
+      "Europe/Warsaw"
+    ],
+    "languages": [
+      "pol"
+    ],
+    "format": "1080i"
+  },
+  {
+    "_id": "Main",
+    "channel": "TenerifePlusTV.es",
+    "id": "Main",
+    "name": "Main",
+    "alt_names": [],
+    "is_main": true,
+    "broadcast_area": [
+      "s/ES-TF"
+    ],
+    "timezones": [
+      "Atlantic/Canary"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "format": "1080i"
+  },
+  {
+    "_id": "enclair",
+    "channel": "CanalPlus.fr",
+    "id": "enclair",
+    "name": "en clair",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/FR"
+    ],
+    "timezones": [
+      "Europe/Paris"
+    ],
+    "languages": [
+      "fra"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "French",
+    "channel": "ZeeOne.uk",
+    "id": "French",
+    "name": "French",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/FR",
+      "c/CH",
+      "c/BE"
+    ],
+    "timezones": [
+      "Europe/Paris"
+    ],
+    "languages": [
+      "fra"
+    ],
+    "format": "720p"
+  },
+  {
+    "_id": "FR",
+    "channel": "VoyagesSaveurs.es",
+    "id": "FR",
+    "name": "FR",
+    "alt_names": [],
+    "is_main": true,
+    "broadcast_area": [
+      "c/FR"
+    ],
+    "timezones": [
+      "Europe/Paris"
+    ],
+    "languages": [
+      "fra"
+    ],
+    "format": "1080p"
+  },
+  {
+    "_id": "Argentine",
+    "channel": "ESPNExtraLatinAmerica.us",
+    "id": "Argentine",
+    "name": "Argentine",
+    "alt_names": [],
+    "is_main": true,
+    "broadcast_area": [
+      "c/AR"
+    ],
+    "timezones": [
+      "Europe/London"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "format": "480i"
+  },
+  {
+    "_id": "Hindi",
+    "channel": "RTDocumentary.ru",
+    "id": "Hindi",
+    "name": "Hindi",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/IN"
+    ],
+    "timezones": [
+      "Europe/Moscow"
+    ],
+    "languages": [
+      "hin"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "HDEast",
+    "channel": "NationalGeographicWild.us",
+    "id": "HDEast",
+    "name": "HD East",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/US"
+    ],
+    "timezones": [
+      "America/New_York"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "format": "1080i"
+  },
+  {
+    "_id": "HDWest",
+    "channel": "DisneyChannel.us",
+    "id": "HDWest",
+    "name": "HD West",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/US"
+    ],
+    "timezones": [
+      "America/Los_Angeles"
+    ],
+    "languages": [
+      "eng",
+      "spa"
+    ],
+    "format": "720p"
+  },
+  {
+    "_id": "GermanyHD",
+    "channel": "Eurosport1.fr",
+    "id": "GermanyHD",
+    "name": "Germany HD",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/DE"
+    ],
+    "timezones": [
+      "Europe/Berlin"
+    ],
+    "languages": [
+      "deu"
+    ],
+    "format": "1080i"
+  },
+  {
+    "_id": "Switzerland",
+    "channel": "RakutenTVTopMovies.es",
+    "id": "Switzerland",
+    "name": "Switzerland",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/CH"
+    ],
+    "timezones": [
+      "Europe/Zurich"
+    ],
+    "languages": [
+      "deu"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Ukraine",
+    "channel": "EpicDrama.uk",
+    "id": "Ukraine",
+    "name": "Ukraine",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/UA"
+    ],
+    "timezones": [
+      "America/Toronto"
+    ],
+    "languages": [
+      "ukr"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "NorthAtlantic",
+    "channel": "CartoonNetworkLatinAmerica.us",
+    "id": "NorthAtlantic",
+    "name": "North Atlantic",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/CO",
+      "c/VE",
+      "r/CENAMER",
+      "r/CARIB"
+    ],
+    "timezones": [
+      "America/Bogota"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "format": "480i"
+  },
+  {
+    "_id": "SouthAtlantic",
+    "channel": "CartoonNetworkLatinAmerica.us",
+    "id": "SouthAtlantic",
+    "name": "South Atlantic",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/AR",
+      "c/PY",
+      "c/UY"
+    ],
+    "timezones": [
+      "America/Argentina/Buenos_Aires"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "format": "480i"
+  },
+  {
+    "_id": "SouthAtlanticHD",
+    "channel": "CartoonNetworkLatinAmerica.us",
+    "id": "SouthAtlanticHD",
+    "name": "South Atlantic HD",
+    "alt_names": [],
+    "is_main": true,
+    "broadcast_area": [
+      "c/AR",
+      "c/PY",
+      "c/UY"
+    ],
+    "timezones": [
+      "America/Argentina/Buenos_Aires"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "format": "1080i"
+  },
+  {
+    "_id": "SouthPacific",
+    "channel": "CartoonNetworkLatinAmerica.us",
+    "id": "SouthPacific",
+    "name": "South Pacific",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/CL",
+      "c/PE",
+      "c/EC",
+      "c/BO"
+    ],
+    "timezones": [
+      "America/Santiago"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "format": "480i"
+  },
+  {
+    "_id": "IrelandPlus1",
+    "channel": "DiscoveryChannel.uk",
+    "id": "IrelandPlus1",
+    "name": "Ireland +1",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/IE"
+    ],
+    "timezones": [
+      "Europe/Brussels"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "UKPlus1",
+    "channel": "TravelChannelEMEA.uk",
+    "id": "UKPlus1",
+    "name": "UK +1",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/UK"
+    ],
+    "timezones": [
+      "Europe/London"
+    ],
+    "languages": [
+      "eng",
+      "ces",
+      "bul",
+      "hun",
+      "ell",
+      "rus",
+      "ukr"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "HDSpanish",
+    "channel": "Cinemax.us",
+    "id": "HDSpanish",
+    "name": "HD Spanish",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/US"
+    ],
+    "timezones": [
+      "America/New_York"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "format": "1080i"
+  },
+  {
+    "_id": "MENAHD",
+    "channel": "CNNInternational.us",
+    "id": "MENAHD",
+    "name": "MENA HD",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "r/MENA"
+    ],
+    "timezones": [
+      "America/New_York"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "format": "1080i"
+  },
+  {
+    "_id": "DE",
+    "channel": "Trailers.es",
+    "id": "DE",
+    "name": "DE",
+    "alt_names": [
+      "Deutsch"
+    ],
+    "is_main": false,
+    "broadcast_area": [
+      "c/AT",
+      "c/DE",
+      "c/CH"
+    ],
+    "timezones": [
+      "Europe/Berlin"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "format": "1080p"
+  },
+  {
+    "_id": "EN",
+    "channel": "LoveWine.es",
+    "id": "EN",
+    "name": "EN",
+    "alt_names": [
+      "UK"
+    ],
+    "is_main": false,
+    "broadcast_area": [
+      "r/NORD",
+      "c/US",
+      "c/AU",
+      "c/UK",
+      "c/PT"
+    ],
+    "timezones": [
+      "Europe/London"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "format": "1080p"
+  },
+  {
+    "_id": "Belgium",
+    "channel": "DAZNProLeague3.uk",
+    "id": "Belgium",
+    "name": "Belgium",
+    "alt_names": [],
+    "is_main": true,
+    "broadcast_area": [
+      "c/BE",
+      "c/LU"
+    ],
+    "timezones": [
+      "America/Toronto"
+    ],
+    "languages": [
+      "nld",
+      "fra"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "BelgiumHD",
+    "channel": "DAZNProLeague3.uk",
+    "id": "BelgiumHD",
+    "name": "Belgium HD",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/BE",
+      "c/LU"
+    ],
+    "timezones": [
+      "America/Toronto"
+    ],
+    "languages": [
+      "nld",
+      "fra"
+    ],
+    "format": "1080i"
+  },
+  {
+    "_id": "Spain4K",
+    "channel": "DAZNF1.uk",
+    "id": "Spain4K",
+    "name": "Spain 4K",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/ES"
+    ],
+    "timezones": [
+      "America/Toronto"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Malta",
+    "channel": "DiscoveryChannelEurope.uk",
+    "id": "Malta",
+    "name": "Malta",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/MT"
+    ],
+    "timezones": [
+      "Europe/Amsterdam"
+    ],
+    "languages": [
+      "mlt"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Japan",
+    "channel": "DiscoveryChannelSoutheastAsia.sg",
+    "id": "Japan",
+    "name": "Japan",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/JP"
+    ],
+    "timezones": [
+      "Asia/Singapore"
+    ],
+    "languages": [
+      "jpn"
+    ],
+    "format": "480i"
+  },
+  {
+    "_id": "SouthKorea",
+    "channel": "DiscoveryChannelSoutheastAsia.sg",
+    "id": "SouthKorea",
+    "name": "South Korea",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/KR"
+    ],
+    "timezones": [
+      "Asia/Singapore"
+    ],
+    "languages": [
+      "kor"
+    ],
+    "format": "480i"
+  },
+  {
+    "_id": "Colombia",
+    "channel": "WarnerChannel.us",
+    "id": "Colombia",
+    "name": "Colombia",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/CO"
+    ],
+    "timezones": [
+      "America/Bogota"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "format": "480i"
+  },
+  {
+    "_id": "RussiaHD",
+    "channel": "Eurosport2.fr",
+    "id": "RussiaHD",
+    "name": "Russia HD",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/RU"
+    ],
+    "timezones": [
+      "Europe/Moscow"
+    ],
+    "languages": [
+      "rus"
+    ],
+    "format": "1080i"
+  },
+  {
+    "_id": "Center",
+    "channel": "TNTLatinAmerica.us",
+    "id": "Center",
+    "name": "Center",
+    "alt_names": [],
+    "is_main": true,
+    "broadcast_area": [
+      "c/PA",
+      "c/VE",
+      "r/CARIB"
+    ],
+    "timezones": [
+      "America/New_York"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "format": "480i"
+  },
+  {
+    "_id": "MexicoHD",
+    "channel": "DisneyXDLatinAmerica.us",
+    "id": "MexicoHD",
+    "name": "Mexico HD",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/MX"
+    ],
+    "timezones": [
+      "America/Mexico_City"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "format": "1080i"
+  },
+  {
+    "_id": "North",
+    "channel": "OnDirecTV.us",
+    "id": "North",
+    "name": "North",
+    "alt_names": [],
+    "is_main": true,
+    "broadcast_area": [
+      "c/CO",
+      "c/EC",
+      "c/PE",
+      "c/VE",
+      "r/CARIB"
+    ],
+    "timezones": [
+      "America/New_York"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "format": "480i"
+  },
+  {
+    "_id": "PanregionalHD",
+    "channel": "ParamountNetworkLatinAmerica.us",
+    "id": "PanregionalHD",
+    "name": "Panregional HD",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "r/HISPAM",
+      "r/CARIB"
+    ],
+    "timezones": [
+      "America/New_York"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "format": "1080i"
+  },
+  {
+    "_id": "NorthHD",
+    "channel": "DisneyJrLatinAmerica.ar",
+    "id": "NorthHD",
+    "name": "North HD",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/MX",
+      "c/CO",
+      "c/VE",
+      "r/CENAMER",
+      "r/CARIB"
+    ],
+    "timezones": [
+      "America/Mexico_City",
+      "America/Bogota"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "format": "1080i"
+  },
+  {
+    "_id": "BrazilHD",
+    "channel": "ParamountNetworkLatinAmerica.us",
+    "id": "BrazilHD",
+    "name": "BrazilHD",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/BR"
+    ],
+    "timezones": [
+      "America/Sao_Paulo"
+    ],
+    "languages": [
+      "por"
+    ],
+    "format": "1080i"
+  },
+  {
+    "_id": "NL",
+    "channel": "XITEHits.nl",
+    "id": "NL",
+    "name": "NL",
+    "alt_names": [
+      "Netherlands"
+    ],
+    "is_main": true,
+    "broadcast_area": [
+      "c/NL"
+    ],
+    "timezones": [
+      "Europe/Amsterdam"
+    ],
+    "languages": [
+      "eng",
+      "nld"
+    ],
+    "format": "1080p"
+  },
+  {
+    "_id": "NLHD",
+    "channel": "PickxPlusSports9.be",
+    "id": "NLHD",
+    "name": "NL HD",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/BE"
+    ],
+    "timezones": [
+      "Europe/Brussels"
+    ],
+    "languages": [
+      "nld"
+    ],
+    "format": "1080i"
+  },
+  {
+    "_id": "Deutsch",
+    "channel": "DW.de",
+    "id": "Deutsch",
+    "name": "Deutsch",
+    "alt_names": [],
+    "is_main": true,
+    "broadcast_area": [
+      "c/DE",
+      "c/AT",
+      "c/BE",
+      "c/LI",
+      "c/LU",
+      "c/CH"
+    ],
+    "timezones": [
+      "Europe/Berlin"
+    ],
+    "languages": [
+      "deu"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "DeutschPlus",
+    "channel": "DW.de",
+    "id": "DeutschPlus",
+    "name": "Deutsch+",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/DE",
+      "c/AT",
+      "c/BE",
+      "c/LI",
+      "c/LU",
+      "c/CH"
+    ],
+    "timezones": [
+      "Europe/Berlin"
+    ],
+    "languages": [
+      "deu"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Espanol",
+    "channel": "DW.de",
+    "id": "Espanol",
+    "name": "Espanol",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "r/HISPAM"
+    ],
+    "timezones": [
+      "Europe/Berlin"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Guayaquil",
+    "channel": "Teleamazonas.ec",
+    "id": "Guayaquil",
+    "name": "Guayaquil",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/EC"
+    ],
+    "timezones": [
+      "America/Guayaquil"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Quito",
+    "channel": "Teleamazonas.ec",
+    "id": "Quito",
+    "name": "Quito",
+    "alt_names": [],
+    "is_main": true,
+    "broadcast_area": [
+      "c/EC"
+    ],
+    "timezones": [
+      "America/Guayaquil"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "format": "480i"
+  },
+  {
+    "_id": "Originals",
+    "channel": "TV3CAT.es",
+    "id": "Originals",
+    "name": "Originals",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "s/ES-CT"
+    ],
+    "timezones": [
+      "Europe/Madrid"
+    ],
+    "languages": [
+      "cat"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Digital",
+    "channel": "EpicTV.in",
+    "id": "Digital",
+    "name": "Digital",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/IN"
+    ],
+    "timezones": [
+      "Asia/Kolkata"
+    ],
+    "languages": [
+      "hin"
+    ],
+    "format": "1080p"
+  },
+  {
+    "_id": "Argentina",
+    "channel": "TNTLatinAmerica.us",
+    "id": "Argentina",
+    "name": "Argentina",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/AR"
+    ],
+    "timezones": [
+      "America/Argentina/Buenos_Aires"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "ESPN8TheOchoHD",
+    "channel": "ESPN8TheOcho.us",
+    "id": "ESPN8TheOchoHD",
+    "name": "ESPN8: The Ocho HD",
+    "alt_names": [],
+    "is_main": true,
+    "broadcast_area": [
+      "r/NAM"
+    ],
+    "timezones": [
+      "America/New_York"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "format": "1080p"
+  },
+  {
+    "_id": "AfricaAsia",
+    "channel": "EWTN.us",
+    "id": "AfricaAsia",
+    "name": "Africa-Asia",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "r/AFR",
+      "r/SAS"
+    ],
+    "timezones": [
+      "America/New_York"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "format": "480i"
+  },
+  {
+    "_id": "SpainLatinAmerica",
+    "channel": "EWTN.us",
+    "id": "SpainLatinAmerica",
+    "name": "Spain & Latin America",
+    "alt_names": [
+      "EWTN El Canal Católico"
+    ],
+    "is_main": false,
+    "broadcast_area": [
+      "c/ES",
+      "r/LATAM"
+    ],
+    "timezones": [
+      "America/New_York"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "format": "480i"
+  },
+  {
+    "_id": "4K",
+    "channel": "VSportUltraHD.se",
+    "id": "4K",
+    "name": "4K",
+    "alt_names": [],
+    "is_main": true,
+    "broadcast_area": [
+      "c/SE"
+    ],
+    "timezones": [
+      "Europe/Stockholm"
+    ],
+    "languages": [
+      "nor",
+      "swe",
+      "dan",
+      "fin"
+    ],
+    "format": "2160p"
+  },
+  {
+    "_id": "German",
+    "channel": "ZeeOne.uk",
+    "id": "German",
+    "name": "German",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/AT",
+      "c/DE",
+      "c/CH"
+    ],
+    "timezones": [
+      "Europe/Berlin"
+    ],
+    "languages": [
+      "deu"
+    ],
+    "format": "720p"
+  },
+  {
+    "_id": "HispanicAmerica",
+    "channel": "FIFAPlus.uk",
+    "id": "HispanicAmerica",
+    "name": "Hispanic America",
+    "alt_names": [
+      "Hispanoamérica"
+    ],
+    "is_main": false,
+    "broadcast_area": [
+      "c/AR",
+      "r/HISPAM"
+    ],
+    "timezones": [
+      "America/Argentina/Buenos_Aires"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "format": "720p"
+  },
+  {
+    "_id": "UnitedStates",
+    "channel": "FIFAPlus.uk",
+    "id": "UnitedStates",
+    "name": "United States",
+    "alt_names": [
+      "USA"
+    ],
+    "is_main": false,
+    "broadcast_area": [
+      "c/US",
+      "c/CA"
+    ],
+    "timezones": [
+      "America/New_York"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "PolandHD",
+    "channel": "FilmBoxPremium.nl",
+    "id": "PolandHD",
+    "name": "Poland HD",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/PL"
+    ],
+    "timezones": [
+      "Europe/Warsaw"
+    ],
+    "languages": [
+      "pol"
+    ],
+    "format": "1080i"
+  },
+  {
+    "_id": "Peru",
+    "channel": "FoxSportsLatinAmerica.us",
+    "id": "Peru",
+    "name": "Peru",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/PE"
+    ],
+    "timezones": [
+      "America/Santiago"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "format": "480i"
+  },
+  {
+    "_id": "Uruguay",
+    "channel": "FoxSportsLatinAmerica.us",
+    "id": "Uruguay",
+    "name": "Uruguay",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/UY"
+    ],
+    "timezones": [
+      "America/Santiago"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "FrenchHD",
+    "channel": "France24.fr",
+    "id": "FrenchHD",
+    "name": "French HD",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/FR"
+    ],
+    "timezones": [
+      "Europe/Paris"
+    ],
+    "languages": [
+      "fra"
+    ],
+    "format": "1080i"
+  },
+  {
+    "_id": "Alpes",
+    "channel": "France3.fr",
+    "id": "Alpes",
+    "name": "Alpes",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/FR"
+    ],
+    "timezones": [
+      "Europe/Paris"
+    ],
+    "languages": [
+      "fra"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Alsace",
+    "channel": "France3.fr",
+    "id": "Alsace",
+    "name": "Alsace",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/FR"
+    ],
+    "timezones": [
+      "Europe/Paris"
+    ],
+    "languages": [
+      "fra"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Aquitaine",
+    "channel": "France3.fr",
+    "id": "Aquitaine",
+    "name": "Aquitaine",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/FR"
+    ],
+    "timezones": [
+      "Europe/Paris"
+    ],
+    "languages": [
+      "fra"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Auvergne",
+    "channel": "France3.fr",
+    "id": "Auvergne",
+    "name": "Auvergne",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/FR"
+    ],
+    "timezones": [
+      "Europe/Paris"
+    ],
+    "languages": [
+      "fra"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "BasseNormandie",
+    "channel": "France3.fr",
+    "id": "BasseNormandie",
+    "name": "Basse-Normandie",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/FR"
+    ],
+    "timezones": [
+      "Europe/Paris"
+    ],
+    "languages": [
+      "fra"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Bourgogne",
+    "channel": "France3.fr",
+    "id": "Bourgogne",
+    "name": "Bourgogne",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/FR"
+    ],
+    "timezones": [
+      "Europe/Paris"
+    ],
+    "languages": [
+      "fra"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Bretagne",
+    "channel": "France3.fr",
+    "id": "Bretagne",
+    "name": "Bretagne",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/FR"
+    ],
+    "timezones": [
+      "Europe/Paris"
+    ],
+    "languages": [
+      "fra"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "CentreValdeLoire",
+    "channel": "France3.fr",
+    "id": "CentreValdeLoire",
+    "name": "Centre-Val de Loire",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/FR"
+    ],
+    "timezones": [
+      "Europe/Paris"
+    ],
+    "languages": [
+      "fra"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "ChampagneArdenne",
+    "channel": "France3.fr",
+    "id": "ChampagneArdenne",
+    "name": "Champagne-Ardenne",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/FR"
+    ],
+    "timezones": [
+      "Europe/Paris"
+    ],
+    "languages": [
+      "fra"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "CorseViaStella",
+    "channel": "France3.fr",
+    "id": "CorseViaStella",
+    "name": "Corse Via Stella",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/FR"
+    ],
+    "timezones": [
+      "Europe/Paris"
+    ],
+    "languages": [
+      "fra"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "CotedAzur",
+    "channel": "France3.fr",
+    "id": "CotedAzur",
+    "name": "Cote d'Azur",
+    "alt_names": [
+      "Côte d'Azur"
+    ],
+    "is_main": false,
+    "broadcast_area": [
+      "c/FR"
+    ],
+    "timezones": [
+      "Europe/Paris"
+    ],
+    "languages": [
+      "fra"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "FrancheComte",
+    "channel": "France3.fr",
+    "id": "FrancheComte",
+    "name": "Franche-Comte",
+    "alt_names": [
+      "Franche-Comté"
+    ],
+    "is_main": false,
+    "broadcast_area": [
+      "c/FR"
+    ],
+    "timezones": [
+      "Europe/Paris"
+    ],
+    "languages": [
+      "fra"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "HauteNormandie",
+    "channel": "France3.fr",
+    "id": "HauteNormandie",
+    "name": "Haute-Normandie",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/FR"
+    ],
+    "timezones": [
+      "Europe/Paris"
+    ],
+    "languages": [
+      "fra"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "LanguedocRoussillon",
+    "channel": "France3.fr",
+    "id": "LanguedocRoussillon",
+    "name": "Languedoc-Roussillon",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/FR"
+    ],
+    "timezones": [
+      "Europe/Paris"
+    ],
+    "languages": [
+      "fra"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Limousin",
+    "channel": "France3.fr",
+    "id": "Limousin",
+    "name": "Limousin",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/FR"
+    ],
+    "timezones": [
+      "Europe/Paris"
+    ],
+    "languages": [
+      "fra"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Lorraine",
+    "channel": "France3.fr",
+    "id": "Lorraine",
+    "name": "Lorraine",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/FR"
+    ],
+    "timezones": [
+      "Europe/Paris"
+    ],
+    "languages": [
+      "fra"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "MidiPyrenees",
+    "channel": "France3.fr",
+    "id": "MidiPyrenees",
+    "name": "Midi-Pyrenees",
+    "alt_names": [
+      "Midi-Pyrénées"
+    ],
+    "is_main": false,
+    "broadcast_area": [
+      "c/FR"
+    ],
+    "timezones": [
+      "Europe/Paris"
+    ],
+    "languages": [
+      "fra"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "NordPasdeCalais",
+    "channel": "France3.fr",
+    "id": "NordPasdeCalais",
+    "name": "Nord Pas-de-Calais",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/FR"
+    ],
+    "timezones": [
+      "Europe/Paris"
+    ],
+    "languages": [
+      "fra"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "NouvelleAquitaineetNoA",
+    "channel": "France3.fr",
+    "id": "NouvelleAquitaineetNoA",
+    "name": "Nouvelle-Aquitaine et NoA",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/FR"
+    ],
+    "timezones": [
+      "Europe/Paris"
+    ],
+    "languages": [
+      "fra"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "ParisIledeFrance",
+    "channel": "France3.fr",
+    "id": "ParisIledeFrance",
+    "name": "Paris Ile-de-France",
+    "alt_names": [
+      "Paris Île-de-France"
+    ],
+    "is_main": false,
+    "broadcast_area": [
+      "c/FR"
+    ],
+    "timezones": [
+      "Europe/Paris"
+    ],
+    "languages": [
+      "fra"
+    ],
+    "format": "1080i"
+  },
+  {
+    "_id": "PaysdelaLoire",
+    "channel": "France3.fr",
+    "id": "PaysdelaLoire",
+    "name": "Pays de la Loire",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/FR"
+    ],
+    "timezones": [
+      "Europe/Paris"
+    ],
+    "languages": [
+      "fra"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Picardie",
+    "channel": "France3.fr",
+    "id": "Picardie",
+    "name": "Picardie",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/FR"
+    ],
+    "timezones": [
+      "Europe/Paris"
+    ],
+    "languages": [
+      "fra"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "PoitouCharentes",
+    "channel": "France3.fr",
+    "id": "PoitouCharentes",
+    "name": "Poitou-Charentes",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/FR"
+    ],
+    "timezones": [
+      "Europe/Paris"
+    ],
+    "languages": [
+      "fra"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "ProvenceAlpes",
+    "channel": "France3.fr",
+    "id": "ProvenceAlpes",
+    "name": "Provence-Alpes",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/FR"
+    ],
+    "timezones": [
+      "Europe/Paris"
+    ],
+    "languages": [
+      "fra"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "RhoneAlpes",
+    "channel": "France3.fr",
+    "id": "RhoneAlpes",
+    "name": "Rhone-Alpes",
+    "alt_names": [
+      "Rhône-Alpes"
+    ],
+    "is_main": false,
+    "broadcast_area": [
+      "c/FR"
+    ],
+    "timezones": [
+      "Europe/Paris"
+    ],
+    "languages": [
+      "fra"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "BR",
+    "channel": "RedBullTV.at",
+    "id": "BR",
+    "name": "BR",
+    "alt_names": [
+      "Brazil",
+      "Portuguese",
+      "português"
+    ],
+    "is_main": false,
+    "broadcast_area": [
+      "c/BR"
+    ],
+    "timezones": [
+      "America/Sao_Paulo"
+    ],
+    "languages": [
+      "por"
+    ],
+    "format": "1080p"
+  },
+  {
+    "_id": "EMEA",
+    "channel": "FUELTV.pt",
+    "id": "EMEA",
+    "name": "EMEA",
+    "alt_names": [
+      "Europe"
+    ],
+    "is_main": true,
+    "broadcast_area": [
+      "r/EMEA"
+    ],
+    "timezones": [
+      "Europe/Lisbon"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "format": "1080p"
+  },
+  {
+    "_id": "Punjabi",
+    "channel": "GodStandsTV.pk",
+    "id": "Punjabi",
+    "name": "Punjabi",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/PK"
+    ],
+    "timezones": [
+      "Asia/Karachi"
+    ],
+    "languages": [
+      "pan"
+    ],
+    "format": "480i"
+  },
+  {
+    "_id": "Tagalog",
+    "channel": "GodStandsTV.pk",
+    "id": "Tagalog",
+    "name": "Tagalog",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/PK"
+    ],
+    "timezones": [
+      "Asia/Karachi"
+    ],
+    "languages": [
+      "tgl"
+    ],
+    "format": "480i"
+  },
+  {
+    "_id": "Urdu",
+    "channel": "GodStandsTV.pk",
+    "id": "Urdu",
+    "name": "Urdu",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/PK"
+    ],
+    "timezones": [
+      "Asia/Karachi"
+    ],
+    "languages": [
+      "urd"
+    ],
+    "format": "480i"
+  },
+  {
+    "_id": "Minus1",
+    "channel": "GraphiteHD.us",
+    "id": "Minus1",
+    "name": "-1",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/US"
+    ],
+    "timezones": [
+      "America/Anchorage"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "format": "720p"
+  },
+  {
+    "_id": "Eastern",
+    "channel": "REVN.us",
+    "id": "Eastern",
+    "name": "Eastern",
+    "alt_names": [],
+    "is_main": true,
+    "broadcast_area": [
+      "c/US"
+    ],
+    "timezones": [
+      "America/New_York"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "format": "480i"
+  },
+  {
+    "_id": "Web",
+    "channel": "REVN.us",
+    "id": "Web",
+    "name": "Web",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/US"
+    ],
+    "timezones": [
+      "America/New_York"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "format": "480i"
+  },
+  {
+    "_id": "Anglia",
+    "channel": "ITV1.uk",
+    "id": "Anglia",
+    "name": "Anglia",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/UK"
+    ],
+    "timezones": [
+      "Europe/London"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "AngliaHD",
+    "channel": "ITV1.uk",
+    "id": "AngliaHD",
+    "name": "Anglia HD",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/UK"
+    ],
+    "timezones": [
+      "Europe/London"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "format": "1080i"
+  },
+  {
+    "_id": "AngliaPlus1",
+    "channel": "ITV1.uk",
+    "id": "AngliaPlus1",
+    "name": "Anglia +1",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/UK"
+    ],
+    "timezones": [
+      "Europe/London"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "BorderEngland",
+    "channel": "ITV1.uk",
+    "id": "BorderEngland",
+    "name": "Border England",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/UK"
+    ],
+    "timezones": [
+      "Europe/London"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "BorderHD",
+    "channel": "ITV1.uk",
+    "id": "BorderHD",
+    "name": "Border HD",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/UK"
+    ],
+    "timezones": [
+      "Europe/London"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "format": "1080i"
+  },
+  {
+    "_id": "BorderPlus1",
+    "channel": "ITV1.uk",
+    "id": "BorderPlus1",
+    "name": "Border +1",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/UK"
+    ],
+    "timezones": [
+      "Europe/London"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "BorderScotland",
+    "channel": "ITV1.uk",
+    "id": "BorderScotland",
+    "name": "Border Scotland",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/UK"
+    ],
+    "timezones": [
+      "Europe/London"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "BorderScotlandHD",
+    "channel": "ITV1.uk",
+    "id": "BorderScotlandHD",
+    "name": "Border Scotland HD",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/UK"
+    ],
+    "timezones": [
+      "Europe/London"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "format": "1080i"
+  },
+  {
+    "_id": "CentralHD",
+    "channel": "StadiumCollegeSports.us",
+    "id": "CentralHD",
+    "name": "Central HD",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/US"
+    ],
+    "timezones": [
+      "America/Chicago"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "format": "720p"
+  },
+  {
+    "_id": "CentralPlus1",
+    "channel": "ITV1.uk",
+    "id": "CentralPlus1",
+    "name": "Central +1",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/UK"
+    ],
+    "timezones": [
+      "Europe/London"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "ChannelTelevision",
+    "channel": "ITV1.uk",
+    "id": "ChannelTelevision",
+    "name": "Channel Television",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/UK"
+    ],
+    "timezones": [
+      "Europe/London"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Granada",
+    "channel": "ITV1.uk",
+    "id": "Granada",
+    "name": "Granada",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/UK"
+    ],
+    "timezones": [
+      "Europe/London"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "GranadaHD",
+    "channel": "ITV1.uk",
+    "id": "GranadaHD",
+    "name": "Granada HD",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/UK"
+    ],
+    "timezones": [
+      "Europe/London"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "format": "1080i"
+  },
+  {
+    "_id": "GranadaPlus1",
+    "channel": "ITV1.uk",
+    "id": "GranadaPlus1",
+    "name": "Granada +1",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/UK"
+    ],
+    "timezones": [
+      "Europe/London"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "LondonPlus1",
+    "channel": "ITV1.uk",
+    "id": "LondonPlus1",
+    "name": "London +1",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/UK"
+    ],
+    "timezones": [
+      "Europe/London"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Meridian",
+    "channel": "ITV1.uk",
+    "id": "Meridian",
+    "name": "Meridian",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/UK"
+    ],
+    "timezones": [
+      "Europe/London"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "MeridianHD",
+    "channel": "ITV1.uk",
+    "id": "MeridianHD",
+    "name": "Meridian HD",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/UK"
+    ],
+    "timezones": [
+      "Europe/London"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "format": "1080i"
+  },
+  {
+    "_id": "MeridianPlus1",
+    "channel": "ITV1.uk",
+    "id": "MeridianPlus1",
+    "name": "Meridian +1",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/UK"
+    ],
+    "timezones": [
+      "Europe/London"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "TyneTees",
+    "channel": "ITV1.uk",
+    "id": "TyneTees",
+    "name": "TyneTees",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/UK"
+    ],
+    "timezones": [
+      "Europe/London"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "TyneTeesHD",
+    "channel": "ITV1.uk",
+    "id": "TyneTeesHD",
+    "name": "Tyne Tees HD",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/UK"
+    ],
+    "timezones": [
+      "Europe/London"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "format": "1080i"
+  },
+  {
+    "_id": "TyneTeesPlus1",
+    "channel": "ITV1.uk",
+    "id": "TyneTeesPlus1",
+    "name": "Tyne Tees +1",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/UK"
+    ],
+    "timezones": [
+      "Europe/London"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "WalesPlus1",
+    "channel": "ITV1.uk",
+    "id": "WalesPlus1",
+    "name": "Wales +1",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/UK"
+    ],
+    "timezones": [
+      "Europe/London"
+    ],
+    "languages": [
+      "eng",
+      "cym"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "WestCountry",
+    "channel": "ITV1.uk",
+    "id": "WestCountry",
+    "name": "West Country",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/UK"
+    ],
+    "timezones": [
+      "Europe/London"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "WestCountryHD",
+    "channel": "ITV1.uk",
+    "id": "WestCountryHD",
+    "name": "West Country HD",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/UK"
+    ],
+    "timezones": [
+      "Europe/London"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "format": "1080i"
+  },
+  {
+    "_id": "WestCountryPlus1",
+    "channel": "ITV1.uk",
+    "id": "WestCountryPlus1",
+    "name": "West Country +1",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/UK"
+    ],
+    "timezones": [
+      "Europe/London"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "WestPlus1",
+    "channel": "ITV1.uk",
+    "id": "WestPlus1",
+    "name": "West +1",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/UK"
+    ],
+    "timezones": [
+      "Europe/London"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "YorkshirePlus1",
+    "channel": "ITV1.uk",
+    "id": "YorkshirePlus1",
+    "name": "Yorkshire +1",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/UK"
+    ],
+    "timezones": [
+      "Europe/London"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Plus1Freeview",
+    "channel": "ITV3.uk",
+    "id": "Plus1Freeview",
+    "name": "+1 Freeview",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/UK"
+    ],
+    "timezones": [
+      "Europe/London"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Bali",
+    "channel": "TVRI.id",
+    "id": "Bali",
+    "name": "Bali",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "s/ID-BA"
+    ],
+    "timezones": [
+      "Asia/Jakarta"
+    ],
+    "languages": [
+      "ind"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Bandung",
+    "channel": "StaraTV.id",
+    "id": "Bandung",
+    "name": "Bandung",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "s/ID-JB"
+    ],
+    "timezones": [
+      "Asia/Jakarta"
+    ],
+    "languages": [
+      "ind",
+      "sun"
+    ],
+    "format": "1080p"
+  },
+  {
+    "_id": "Cianjur",
+    "channel": "StaraTV.id",
+    "id": "Cianjur",
+    "name": "Cianjur",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "s/ID-JB"
+    ],
+    "timezones": [
+      "Asia/Jakarta"
+    ],
+    "languages": [
+      "ind",
+      "sun"
+    ],
+    "format": "720p"
+  },
+  {
+    "_id": "Jakarta",
+    "channel": "TVRI.id",
+    "id": "Jakarta",
+    "name": "Jakarta",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "s/ID-JK"
+    ],
+    "timezones": [
+      "Asia/Jakarta"
+    ],
+    "languages": [
+      "ind"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Madiun",
+    "channel": "JTV.id",
+    "id": "Madiun",
+    "name": "Madiun",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "ct/IDMDI"
+    ],
+    "timezones": [
+      "Asia/Jakarta"
+    ],
+    "languages": [
+      "ind"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Magelang",
+    "channel": "JawaPosTV.id",
+    "id": "Magelang",
+    "name": "Magelang",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "s/ID-JT"
+    ],
+    "timezones": [
+      "Asia/Jakarta"
+    ],
+    "languages": [
+      "ind"
+    ],
+    "format": "720p"
+  },
+  {
+    "_id": "Semarang",
+    "channel": "JawaPosTV.id",
+    "id": "Semarang",
+    "name": "Semarang",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "ct/IDSRG"
+    ],
+    "timezones": [
+      "Asia/Jakarta"
+    ],
+    "languages": [
+      "ind"
+    ],
+    "format": "720p"
+  },
+  {
+    "_id": "Kediri",
+    "channel": "JTV.id",
+    "id": "Kediri",
+    "name": "Kediri",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "ct/IDKDR"
+    ],
+    "timezones": [
+      "Asia/Jakarta"
+    ],
+    "languages": [
+      "ind"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Madura",
+    "channel": "JTV.id",
+    "id": "Madura",
+    "name": "Madura",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "ct/ID5SS"
+    ],
+    "timezones": [
+      "Asia/Jakarta"
+    ],
+    "languages": [
+      "ind"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Malang",
+    "channel": "StaraTV.id",
+    "id": "Malang",
+    "name": "Malang",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "ct/IDMLG"
+    ],
+    "timezones": [
+      "Asia/Jakarta"
+    ],
+    "languages": [
+      "ind",
+      "jav"
+    ],
+    "format": "1080p"
+  },
+  {
+    "_id": "ComunitatValenciana",
+    "channel": "La1.es",
+    "id": "ComunitatValenciana",
+    "name": "Comunitat Valenciana",
+    "alt_names": [
+      "Comunidad Valenciana"
+    ],
+    "is_main": false,
+    "broadcast_area": [
+      "s/ES-VC"
+    ],
+    "timezones": [
+      "Europe/Madrid"
+    ],
+    "languages": [
+      "spa",
+      "cat"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Live1",
+    "channel": "LEquipe.fr",
+    "id": "Live1",
+    "name": "Live1",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/FR"
+    ],
+    "timezones": [
+      "Europe/Paris"
+    ],
+    "languages": [
+      "fra"
+    ],
+    "format": "1080p"
+  },
+  {
+    "_id": "Live2",
+    "channel": "LEquipe.fr",
+    "id": "Live2",
+    "name": "Live2",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/FR"
+    ],
+    "timezones": [
+      "Europe/Paris"
+    ],
+    "languages": [
+      "fra"
+    ],
+    "format": "1080p"
+  },
+  {
+    "_id": "ES",
+    "channel": "ViajesSabores.es",
+    "id": "ES",
+    "name": "ES",
+    "alt_names": [],
+    "is_main": true,
+    "broadcast_area": [
+      "c/ES"
+    ],
+    "timezones": [
+      "Europe/Madrid"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "format": "1080p"
+  },
+  {
+    "_id": "IT",
+    "channel": "ViaggiSapori.es",
+    "id": "IT",
+    "name": "IT",
+    "alt_names": [],
+    "is_main": true,
+    "broadcast_area": [
+      "c/IT"
+    ],
+    "timezones": [
+      "Europe/Rome"
+    ],
+    "languages": [
+      "ita"
+    ],
+    "format": "1080p"
+  },
+  {
+    "_id": "NeutralSpanish",
+    "channel": "LoveThePlanet.es",
+    "id": "NeutralSpanish",
+    "name": "Neutral Spanish",
+    "alt_names": [
+      "en Espanol",
+      "en Español"
+    ],
+    "is_main": false,
+    "broadcast_area": [
+      "c/US",
+      "r/HISPAM"
+    ],
+    "timezones": [
+      "America/Los_Angeles"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "format": "1080p"
+  },
+  {
+    "_id": "FHD",
+    "channel": "TrabzonBuyuksehirBelediyesiTV.tr",
+    "id": "FHD",
+    "name": "FHD",
+    "alt_names": [],
+    "is_main": true,
+    "broadcast_area": [
+      "c/TR"
+    ],
+    "timezones": [
+      "Europe/Istanbul"
+    ],
+    "languages": [
+      "tur"
+    ],
+    "format": "1080p"
+  },
+  {
+    "_id": "Sachsen",
+    "channel": "MDRFernsehen.de",
+    "id": "Sachsen",
+    "name": "Sachsen",
+    "alt_names": [],
+    "is_main": true,
+    "broadcast_area": [
+      "s/DE-SN"
+    ],
+    "timezones": [
+      "Europe/Berlin"
+    ],
+    "languages": [
+      "deu"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "SachsenAnhalt",
+    "channel": "MDRFernsehen.de",
+    "id": "SachsenAnhalt",
+    "name": "Sachsen Anhalt",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "s/DE-ST"
+    ],
+    "timezones": [
+      "Europe/Berlin"
+    ],
+    "languages": [
+      "deu"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Thuringen",
+    "channel": "MDRFernsehen.de",
+    "id": "Thuringen",
+    "name": "Thuringen",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "s/DE-TH"
+    ],
+    "timezones": [
+      "Europe/Berlin"
+    ],
+    "languages": [
+      "deu"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "CatcastRU",
+    "channel": "MGMHD.us",
+    "id": "CatcastRU",
+    "name": "CatcastRU",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/RU"
+    ],
+    "timezones": [
+      "Europe/Moscow"
+    ],
+    "languages": [
+      "rus"
+    ],
+    "format": "360p"
+  },
+  {
+    "_id": "Plus3",
+    "channel": "Mir.ru",
+    "id": "Plus3",
+    "name": "+3",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "s/RU-OMS"
+    ],
+    "timezones": [
+      "Asia/Omsk"
+    ],
+    "languages": [
+      "rus"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Plus4",
+    "channel": "Mir.ru",
+    "id": "Plus4",
+    "name": "+4",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "s/RU-ALT",
+      "s/RU-AL",
+      "s/RU-KEM",
+      "s/RU-KK",
+      "s/RU-KYA",
+      "s/RU-NVS",
+      "s/RU-TOM",
+      "s/RU-TY"
+    ],
+    "timezones": [
+      "Asia/Krasnoyarsk"
+    ],
+    "languages": [
+      "rus"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Plus7",
+    "channel": "Mir.ru",
+    "id": "Plus7",
+    "name": "+7",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "s/RU-YEV",
+      "s/RU-KHA",
+      "s/RU-PRI",
+      "s/RU-SA"
+    ],
+    "timezones": [
+      "Asia/Vladivostok"
+    ],
+    "languages": [
+      "rus"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "MX",
+    "channel": "MovieSphere.us",
+    "id": "MX",
+    "name": "MX",
+    "alt_names": [
+      "español"
+    ],
+    "is_main": false,
+    "broadcast_area": [
+      "c/MX"
+    ],
+    "timezones": [
+      "America/Mexico_City"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "format": "1080p"
+  },
+  {
+    "_id": "LatAm",
+    "channel": "OnePiece.us",
+    "id": "LatAm",
+    "name": "LatAm",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "r/LATAM"
+    ],
+    "timezones": [
+      "America/Los_Angeles"
+    ],
+    "languages": [
+      "jap",
+      "spa"
+    ],
+    "format": "720p"
+  },
+  {
+    "_id": "Northeast",
+    "channel": "NBT11.th",
+    "id": "Northeast",
+    "name": "Northeast",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/TH"
+    ],
+    "timezones": [
+      "Asia/Bangkok"
+    ],
+    "languages": [
+      "tha"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Hamburg",
+    "channel": "NDRFernsehen.de",
+    "id": "Hamburg",
+    "name": "Hamburg",
+    "alt_names": [],
+    "is_main": true,
+    "broadcast_area": [
+      "s/DE-HH"
+    ],
+    "timezones": [
+      "Europe/Berlin"
+    ],
+    "languages": [
+      "deu"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "MecklenburgVorpommern",
+    "channel": "NDRFernsehen.de",
+    "id": "MecklenburgVorpommern",
+    "name": "Mecklenburg Vorpommern",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "s/DE-MV"
+    ],
+    "timezones": [
+      "Europe/Berlin"
+    ],
+    "languages": [
+      "deu"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Niedersachsen",
+    "channel": "NDRFernsehen.de",
+    "id": "Niedersachsen",
+    "name": "Niedersachsen",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "s/DE-NI"
+    ],
+    "timezones": [
+      "Europe/Berlin"
+    ],
+    "languages": [
+      "deu"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "SchleswigHolstein",
+    "channel": "NDRFernsehen.de",
+    "id": "SchleswigHolstein",
+    "name": "Schleswig Holstein",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "s/DE-SH"
+    ],
+    "timezones": [
+      "Europe/Berlin"
+    ],
+    "languages": [
+      "deu"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "1",
+    "channel": "TeletoonPlus.fr",
+    "id": "1",
+    "name": "1",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/FR"
+    ],
+    "timezones": [
+      "Europe/Paris"
+    ],
+    "languages": [
+      "fra"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Estonia",
+    "channel": "NTVMirBaltic.ru",
+    "id": "Estonia",
+    "name": "Estonia",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/EE"
+    ],
+    "timezones": [
+      "Europe/Moscow"
+    ],
+    "languages": [
+      "rus"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Latvia",
+    "channel": "NTVMirBaltic.ru",
+    "id": "Latvia",
+    "name": "Latvia",
+    "alt_names": [],
+    "is_main": true,
+    "broadcast_area": [
+      "c/LV"
+    ],
+    "timezones": [
+      "Europe/Moscow"
+    ],
+    "languages": [
+      "rus"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Lithuania",
+    "channel": "NTVMirBaltic.ru",
+    "id": "Lithuania",
+    "name": "Lithuania",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/LT"
+    ],
+    "timezones": [
+      "Europe/Moscow"
+    ],
+    "languages": [
+      "rus"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "FRHD",
+    "channel": "PickxPlusSports9.be",
+    "id": "FRHD",
+    "name": "FR HD",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/BE"
+    ],
+    "timezones": [
+      "Europe/Brussels"
+    ],
+    "languages": [
+      "fra"
+    ],
+    "format": "1080i"
+  },
+  {
+    "_id": "UKPlus",
+    "channel": "PlutoTVAction.us",
+    "id": "UKPlus",
+    "name": "UK+",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/UK"
+    ],
+    "timezones": [
+      "Europe/London"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "format": "720p"
+  },
+  {
+    "_id": "USPlus",
+    "channel": "PlutoTVAnime.us",
+    "id": "USPlus",
+    "name": "US+",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/US"
+    ],
+    "timezones": [
+      "America/New_York"
+    ],
+    "languages": [
+      "eng",
+      "jap"
+    ],
+    "format": "720p"
+  },
+  {
+    "_id": "SpainPlus",
+    "channel": "PlutoTVCineEstelar.us",
+    "id": "SpainPlus",
+    "name": "Spain+",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/ES"
+    ],
+    "timezones": [
+      "Europe/Madrid"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "DACH",
+    "channel": "ZeeTVUK.uk",
+    "id": "DACH",
+    "name": "DACH",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/DE",
+      "c/AT",
+      "c/CH"
+    ],
+    "timezones": [
+      "Europe/Berlin"
+    ],
+    "languages": [
+      "hin"
+    ],
+    "format": "1080p"
+  },
+  {
+    "_id": "Plus24",
+    "channel": "SkyCinemaUno.it",
+    "id": "Plus24",
+    "name": "+24",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/IT"
+    ],
+    "timezones": [
+      "Europe/Rome"
+    ],
+    "languages": [
+      "ita"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Abruzzo",
+    "channel": "Rai3.it",
+    "id": "Abruzzo",
+    "name": "Abruzzo",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "s/IT-65"
+    ],
+    "timezones": [
+      "Europe/Rome"
+    ],
+    "languages": [
+      "ita"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Basilicata",
+    "channel": "Rai3.it",
+    "id": "Basilicata",
+    "name": "Basilicata",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "s/IT-77"
+    ],
+    "timezones": [
+      "Europe/Rome"
+    ],
+    "languages": [
+      "ita"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "BISFJK",
+    "channel": "Rai3.it",
+    "id": "BISFJK",
+    "name": "BIS FJK",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "s/IT-36"
+    ],
+    "timezones": [
+      "Europe/Rome"
+    ],
+    "languages": [
+      "slv",
+      "ita"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Calabria",
+    "channel": "Rai3.it",
+    "id": "Calabria",
+    "name": "Calabria",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "s/IT-78"
+    ],
+    "timezones": [
+      "Europe/Rome"
+    ],
+    "languages": [
+      "ita"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Campania",
+    "channel": "Rai3.it",
+    "id": "Campania",
+    "name": "Campania",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "s/IT-72"
+    ],
+    "timezones": [
+      "Europe/Rome"
+    ],
+    "languages": [
+      "ita"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "EmiliaRomagna",
+    "channel": "Rai3.it",
+    "id": "EmiliaRomagna",
+    "name": "Emilia Romagna",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "s/IT-45"
+    ],
+    "timezones": [
+      "Europe/Rome"
+    ],
+    "languages": [
+      "ita"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "FriuliVeneziaGiulia",
+    "channel": "Rai3.it",
+    "id": "FriuliVeneziaGiulia",
+    "name": "Friuli Venezia Giulia",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "s/IT-36"
+    ],
+    "timezones": [
+      "Europe/Rome"
+    ],
+    "languages": [
+      "ita"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Lazio",
+    "channel": "Rai3.it",
+    "id": "Lazio",
+    "name": "Lazio",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "s/IT-62"
+    ],
+    "timezones": [
+      "Europe/Rome"
+    ],
+    "languages": [
+      "ita"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Liguria",
+    "channel": "Rai3.it",
+    "id": "Liguria",
+    "name": "Liguria",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "s/IT-42"
+    ],
+    "timezones": [
+      "Europe/Rome"
+    ],
+    "languages": [
+      "ita"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Lombardia",
+    "channel": "Rai3.it",
+    "id": "Lombardia",
+    "name": "Lombardia",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "s/IT-25"
+    ],
+    "timezones": [
+      "Europe/Rome"
+    ],
+    "languages": [
+      "ita"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Marche",
+    "channel": "Rai3.it",
+    "id": "Marche",
+    "name": "Marche",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "s/IT-57"
+    ],
+    "timezones": [
+      "Europe/Rome"
+    ],
+    "languages": [
+      "ita"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Molise",
+    "channel": "Rai3.it",
+    "id": "Molise",
+    "name": "Molise",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "s/IT-67"
+    ],
+    "timezones": [
+      "Europe/Rome"
+    ],
+    "languages": [
+      "ita"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Piemonte",
+    "channel": "Rai3.it",
+    "id": "Piemonte",
+    "name": "Piemonte",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "s/IT-21"
+    ],
+    "timezones": [
+      "Europe/Rome"
+    ],
+    "languages": [
+      "ita"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Puglia",
+    "channel": "Rai3.it",
+    "id": "Puglia",
+    "name": "Puglia",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "s/IT-75"
+    ],
+    "timezones": [
+      "Europe/Rome"
+    ],
+    "languages": [
+      "ita"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Sardegna",
+    "channel": "Rai3.it",
+    "id": "Sardegna",
+    "name": "Sardegna",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "s/IT-88"
+    ],
+    "timezones": [
+      "Europe/Rome"
+    ],
+    "languages": [
+      "ita"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Sicilia",
+    "channel": "Rai3.it",
+    "id": "Sicilia",
+    "name": "Sicilia",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "s/IT-82"
+    ],
+    "timezones": [
+      "Europe/Rome"
+    ],
+    "languages": [
+      "ita"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Toscana",
+    "channel": "Rai3.it",
+    "id": "Toscana",
+    "name": "Toscana",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "s/IT-52"
+    ],
+    "timezones": [
+      "Europe/Rome"
+    ],
+    "languages": [
+      "ita"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "TrentinoAltoAdigeBolzano",
+    "channel": "Rai3.it",
+    "id": "TrentinoAltoAdigeBolzano",
+    "name": "Trentino-Alto Adige Bolzano",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "s/IT-32"
+    ],
+    "timezones": [
+      "Europe/Rome"
+    ],
+    "languages": [
+      "ita"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "TrentinoAltoAdigeTrento",
+    "channel": "Rai3.it",
+    "id": "TrentinoAltoAdigeTrento",
+    "name": "Trentino-Alto Adige Trento",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "s/IT-32"
+    ],
+    "timezones": [
+      "Europe/Rome"
+    ],
+    "languages": [
+      "ita"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Umbria",
+    "channel": "Rai3.it",
+    "id": "Umbria",
+    "name": "Umbria",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "s/IT-55"
+    ],
+    "timezones": [
+      "Europe/Rome"
+    ],
+    "languages": [
+      "ita"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "ValledAosta",
+    "channel": "Rai3.it",
+    "id": "ValledAosta",
+    "name": "Valle d'Aosta",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "s/IT-23"
+    ],
+    "timezones": [
+      "Europe/Rome"
+    ],
+    "languages": [
+      "ita"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Veneto",
+    "channel": "Rai3.it",
+    "id": "Veneto",
+    "name": "Veneto",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/IT"
+    ],
+    "timezones": [
+      "Europe/Rome"
+    ],
+    "languages": [
+      "ita"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Americas",
+    "channel": "RaiItalia.it",
+    "id": "Americas",
+    "name": "Americas",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "r/AMER",
+      "r/LATAM"
+    ],
+    "timezones": [
+      "Europe/Rome"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "EuropeAfrica",
+    "channel": "RaiItalia.it",
+    "id": "EuropeAfrica",
+    "name": "Europe/Africa",
+    "alt_names": [],
+    "is_main": true,
+    "broadcast_area": [
+      "r/EUR",
+      "r/AFR"
+    ],
+    "timezones": [
+      "Europe/Rome"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "HDHEVC",
+    "channel": "RaiSport.it",
+    "id": "HDHEVC",
+    "name": "HD HEVC",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/IT"
+    ],
+    "timezones": [
+      "Europe/Rome"
+    ],
+    "languages": [
+      "ita"
+    ],
+    "format": "1080i"
+  },
+  {
+    "_id": "Austria",
+    "channel": "RTL.de",
+    "id": "Austria",
+    "name": "Austria",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/AT"
+    ],
+    "timezones": [
+      "Europe/Vienna"
+    ],
+    "languages": [
+      "deu"
+    ],
+    "format": "1080p"
+  },
+  {
+    "_id": "Berlin",
+    "channel": "rbbFernsehen.de",
+    "id": "Berlin",
+    "name": "Berlin",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "s/DE-BE"
+    ],
+    "timezones": [
+      "Europe/Berlin"
+    ],
+    "languages": [
+      "deu"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Brandenburg",
+    "channel": "rbbFernsehen.de",
+    "id": "Brandenburg",
+    "name": "Brandenburg",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "s/DE-BB"
+    ],
+    "timezones": [
+      "Europe/Berlin"
+    ],
+    "languages": [
+      "deu"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "EUMENA",
+    "channel": "RedBullTV.at",
+    "id": "EUMENA",
+    "name": "EU/MENA",
+    "alt_names": [
+      "EMEA"
+    ],
+    "is_main": true,
+    "broadcast_area": [
+      "r/EU",
+      "r/MENA"
+    ],
+    "timezones": [
+      "Europe/Vienna"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "format": "1080p"
+  },
+  {
+    "_id": "DOS",
+    "channel": "RNN.do",
+    "id": "DOS",
+    "name": "DOS",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/DO"
+    ],
+    "timezones": [
+      "America/Santo_Domingo"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "format": "720p"
+  },
+  {
+    "_id": "RussianHD",
+    "channel": "RTDocumentary.ru",
+    "id": "RussianHD",
+    "name": "Russian HD",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/RU"
+    ],
+    "timezones": [
+      "Europe/Moscow"
+    ],
+    "languages": [
+      "rus"
+    ],
+    "format": "1080i"
+  },
+  {
+    "_id": "CIS",
+    "channel": "RTRPlaneta.ru",
+    "id": "CIS",
+    "name": "CIS",
+    "alt_names": [],
+    "is_main": true,
+    "broadcast_area": [
+      "r/CIS"
+    ],
+    "timezones": [
+      "Europe/Moscow"
+    ],
+    "languages": [
+      "rus"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Chita",
+    "channel": "Russia24.ru",
+    "id": "Chita",
+    "name": "Chita",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "s/RU-ZAB"
+    ],
+    "timezones": [
+      "Asia/Chita"
+    ],
+    "languages": [
+      "rus"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Irkutsk",
+    "channel": "Russia24.ru",
+    "id": "Irkutsk",
+    "name": "Irkutsk",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "s/RU-IRK"
+    ],
+    "timezones": [
+      "Asia/Irkutsk"
+    ],
+    "languages": [
+      "rus"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Kaluga",
+    "channel": "Russia1.ru",
+    "id": "Kaluga",
+    "name": "Kaluga",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "s/RU-KLU"
+    ],
+    "timezones": [
+      "Europe/Moscow"
+    ],
+    "languages": [
+      "rus"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "MariyEl",
+    "channel": "Russia1.ru",
+    "id": "MariyEl",
+    "name": "Mariy El",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "s/RU-ME"
+    ],
+    "timezones": [
+      "Europe/Moscow"
+    ],
+    "languages": [
+      "rus"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Perm",
+    "channel": "Russia24.ru",
+    "id": "Perm",
+    "name": "Perm",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "s/RU-PER"
+    ],
+    "timezones": [
+      "Asia/Yekaterinburg"
+    ],
+    "languages": [
+      "rus"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Plus6",
+    "channel": "Russia1.ru",
+    "id": "Plus6",
+    "name": "+6",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "s/RU-KYA",
+      "s/RU-TY",
+      "s/RU-KK"
+    ],
+    "timezones": [
+      "Europe/Moscow"
+    ],
+    "languages": [
+      "rus"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Tomsk",
+    "channel": "Russia24.ru",
+    "id": "Tomsk",
+    "name": "Tomsk",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "s/RU-TOM"
+    ],
+    "timezones": [
+      "Asia/Tomsk"
+    ],
+    "languages": [
+      "rus"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Birobidzhan",
+    "channel": "Russia24.ru",
+    "id": "Birobidzhan",
+    "name": "Birobidzhan",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "s/RU-YEV"
+    ],
+    "timezones": [
+      "Asia/Vladivostok"
+    ],
+    "languages": [
+      "rus"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Kuban",
+    "channel": "Russia24.ru",
+    "id": "Kuban",
+    "name": "Kuban",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "s/RU-KDA"
+    ],
+    "timezones": [
+      "Europe/Moscow"
+    ],
+    "languages": [
+      "rus"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "NizhniyNovgorod",
+    "channel": "Russia24.ru",
+    "id": "NizhniyNovgorod",
+    "name": "Nizhniy Novgorod",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "s/RU-NIZ"
+    ],
+    "timezones": [
+      "Europe/Moscow"
+    ],
+    "languages": [
+      "rus"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Omsk",
+    "channel": "Russia24.ru",
+    "id": "Omsk",
+    "name": "Omsk",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "s/RU-OMS"
+    ],
+    "timezones": [
+      "Asia/Omsk"
+    ],
+    "languages": [
+      "rus"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Petropavlosk",
+    "channel": "Russia24.ru",
+    "id": "Petropavlosk",
+    "name": "Petropavlosk",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "s/RU-KAM"
+    ],
+    "timezones": [
+      "Asia/Kamchatka"
+    ],
+    "languages": [
+      "rus"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Sochi",
+    "channel": "Russia24.ru",
+    "id": "Sochi",
+    "name": "Sochi",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "s/RU-KDA"
+    ],
+    "timezones": [
+      "Europe/Moscow"
+    ],
+    "languages": [
+      "rus"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Global",
+    "channel": "Zoom.in",
+    "id": "Global",
+    "name": "Global",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/IN",
+      "r/AFR",
+      "r/ASIA",
+      "r/AMER",
+      "r/EUR",
+      "r/OCE"
+    ],
+    "timezones": [
+      "Asia/Kolkata"
+    ],
+    "languages": [
+      "hin"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "KYA",
+    "channel": "Sibir24.ru",
+    "id": "KYA",
+    "name": "KYA",
+    "alt_names": [
+      "Сибирь 24 (Красноярск)"
+    ],
+    "is_main": false,
+    "broadcast_area": [
+      "s/RU-KYA"
+    ],
+    "timezones": [
+      "Asia/Krasnoyarsk"
+    ],
+    "languages": [
+      "rus"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "NVS",
+    "channel": "Sibir24.ru",
+    "id": "NVS",
+    "name": "NVS",
+    "alt_names": [],
+    "is_main": true,
+    "broadcast_area": [
+      "s/RU-NVS"
+    ],
+    "timezones": [
+      "Asia/Novosibirsk"
+    ],
+    "languages": [
+      "rus"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Plus24HD",
+    "channel": "SkyCinemaUno.it",
+    "id": "Plus24HD",
+    "name": "+24 HD",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/IT"
+    ],
+    "timezones": [
+      "Europe/Rome"
+    ],
+    "languages": [
+      "ita"
+    ],
+    "format": "1080i"
+  },
+  {
+    "_id": "Plus1HD",
+    "channel": "TVNova.cz",
+    "id": "Plus1HD",
+    "name": "+1 HD",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/CZ"
+    ],
+    "timezones": [
+      "Europe/Prague"
+    ],
+    "languages": [
+      "ces"
+    ],
+    "format": "1080i"
+  },
+  {
+    "_id": "UltraHDR",
+    "channel": "SkySportsMainEvent.uk",
+    "id": "UltraHDR",
+    "name": "Ultra HDR",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/UK",
+      "c/IE"
+    ],
+    "timezones": [
+      "Europe/London"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "format": "2160p"
+  },
+  {
+    "_id": "Panhellenic",
+    "channel": "SmileTV.gr",
+    "id": "Panhellenic",
+    "name": "Panhellenic",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/GR"
+    ],
+    "timezones": [
+      "Europe/Athens"
+    ],
+    "languages": [
+      "ell"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Kannada",
+    "channel": "SonySportsTen4.in",
+    "id": "Kannada",
+    "name": "Kannada",
+    "alt_names": [
+      "ಕನ್ನಡ"
+    ],
+    "is_main": false,
+    "broadcast_area": [
+      "c/IN"
+    ],
+    "timezones": [
+      "Asia/Kolkata"
+    ],
+    "languages": [
+      "kan"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Tamil",
+    "channel": "SonySportsTen4.in",
+    "id": "Tamil",
+    "name": "Tamil",
+    "alt_names": [],
+    "is_main": true,
+    "broadcast_area": [
+      "c/IN"
+    ],
+    "timezones": [
+      "Asia/Kolkata"
+    ],
+    "languages": [
+      "tam"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Telugu",
+    "channel": "SonySportsTen4.in",
+    "id": "Telugu",
+    "name": "Telugu",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/IN"
+    ],
+    "timezones": [
+      "Asia/Kolkata"
+    ],
+    "languages": [
+      "tel"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Alternate",
+    "channel": "Space.ar",
+    "id": "Alternate",
+    "name": "Alternate",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/CL",
+      "c/VE"
+    ],
+    "timezones": [
+      "America/New_York"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "format": "480i"
+  },
+  {
+    "_id": "SerbiaHD",
+    "channel": "SportKlub.nl",
+    "id": "SerbiaHD",
+    "name": "Serbia HD",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/RS",
+      "c/HU"
+    ],
+    "timezones": [
+      "Europe/Belgrade"
+    ],
+    "languages": [
+      "hun"
+    ],
+    "format": "1080i"
+  },
+  {
+    "_id": "Ontario",
+    "channel": "Sportsnet.ca",
+    "id": "Ontario",
+    "name": "Ontario",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/CA"
+    ],
+    "timezones": [
+      "America/Toronto"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "format": "480i"
+  },
+  {
+    "_id": "Atlantic",
+    "channel": "StadiumCollegeSports.us",
+    "id": "Atlantic",
+    "name": "Atlantic",
+    "alt_names": [],
+    "is_main": true,
+    "broadcast_area": [
+      "c/US"
+    ],
+    "timezones": [
+      "America/New_York"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "format": "480i"
+  },
+  {
+    "_id": "AtlanticHD",
+    "channel": "StadiumCollegeSports.us",
+    "id": "AtlanticHD",
+    "name": "Atlantic HD",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/US"
+    ],
+    "timezones": [
+      "America/New_York"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "format": "720p"
+  },
+  {
+    "_id": "PacificHD",
+    "channel": "StadiumCollegeSports.us",
+    "id": "PacificHD",
+    "name": "Pacific HD",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/US"
+    ],
+    "timezones": [
+      "America/Los_Angeles"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "format": "720p"
+  },
+  {
+    "_id": "Bojonegoro",
+    "channel": "StaraTV.id",
+    "id": "Bojonegoro",
+    "name": "Bojonegoro",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "s/ID-JI"
+    ],
+    "timezones": [
+      "Asia/Jakarta"
+    ],
+    "languages": [
+      "ind",
+      "jav"
+    ],
+    "format": "720p"
+  },
+  {
+    "_id": "Parahyangan",
+    "channel": "StaraTV.id",
+    "id": "Parahyangan",
+    "name": "Parahyangan",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "s/ID-JB"
+    ],
+    "timezones": [
+      "Asia/Jakarta"
+    ],
+    "languages": [
+      "ind",
+      "sun"
+    ],
+    "format": "720p"
+  },
+  {
+    "_id": "SumedangMajalengka",
+    "channel": "StaraTV.id",
+    "id": "SumedangMajalengka",
+    "name": "Sumedang & Majalengka",
+    "alt_names": [],
+    "is_main": true,
+    "broadcast_area": [
+      "ct/ID5SU"
+    ],
+    "timezones": [
+      "Asia/Jakarta"
+    ],
+    "languages": [
+      "ind",
+      "sun"
+    ],
+    "format": "720p"
+  },
+  {
+    "_id": "2",
+    "channel": "StoriesbyAMC.us",
+    "id": "2",
+    "name": "2",
+    "alt_names": [
+      "DRM"
+    ],
+    "is_main": false,
+    "broadcast_area": [
+      "c/US"
+    ],
+    "timezones": [
+      "America/New_York"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "format": "1080p"
+  },
+  {
+    "_id": "Dalarna",
+    "channel": "SVT1.se",
+    "id": "Dalarna",
+    "name": "Dalarna",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "s/SE-W"
+    ],
+    "timezones": [
+      "Europe/Stockholm"
+    ],
+    "languages": [
+      "swe"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Gavleborg",
+    "channel": "SVT1.se",
+    "id": "Gavleborg",
+    "name": "Gavleborg",
+    "alt_names": [
+      "Gävleborg"
+    ],
+    "is_main": false,
+    "broadcast_area": [
+      "s/SE-X"
+    ],
+    "timezones": [
+      "Europe/Stockholm"
+    ],
+    "languages": [
+      "swe"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Jamtland",
+    "channel": "SVT1.se",
+    "id": "Jamtland",
+    "name": "Jamtland",
+    "alt_names": [
+      "Jönköping"
+    ],
+    "is_main": false,
+    "broadcast_area": [
+      "s/SE-Z"
+    ],
+    "timezones": [
+      "Europe/Stockholm"
+    ],
+    "languages": [
+      "swe"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Jonkoping",
+    "channel": "SVT1.se",
+    "id": "Jonkoping",
+    "name": "Jonkoping",
+    "alt_names": [
+      "Jönköping"
+    ],
+    "is_main": false,
+    "broadcast_area": [
+      "s/SE-F"
+    ],
+    "timezones": [
+      "Europe/Stockholm"
+    ],
+    "languages": [
+      "swe"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Norrbotten",
+    "channel": "SVT1.se",
+    "id": "Norrbotten",
+    "name": "Norrbotten",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "s/SE-BD"
+    ],
+    "timezones": [
+      "Europe/Stockholm"
+    ],
+    "languages": [
+      "swe"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Orebro",
+    "channel": "SVT1.se",
+    "id": "Orebro",
+    "name": "Orebro",
+    "alt_names": [
+      "Örebro"
+    ],
+    "is_main": false,
+    "broadcast_area": [
+      "s/SE-T"
+    ],
+    "timezones": [
+      "Europe/Stockholm"
+    ],
+    "languages": [
+      "swe"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Ost",
+    "channel": "SVT1.se",
+    "id": "Ost",
+    "name": "Ost",
+    "alt_names": [
+      "Öst"
+    ],
+    "is_main": false,
+    "broadcast_area": [
+      "s/SE-E"
+    ],
+    "timezones": [
+      "Europe/Stockholm"
+    ],
+    "languages": [
+      "swe"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Skane",
+    "channel": "SVT1.se",
+    "id": "Skane",
+    "name": "Skane",
+    "alt_names": [
+      "Skåne"
+    ],
+    "is_main": false,
+    "broadcast_area": [
+      "s/SE-M"
+    ],
+    "timezones": [
+      "Europe/Stockholm"
+    ],
+    "languages": [
+      "swe"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Smaland",
+    "channel": "SVT1.se",
+    "id": "Smaland",
+    "name": "Smaland",
+    "alt_names": [
+      "Småland"
+    ],
+    "is_main": false,
+    "broadcast_area": [
+      "c/SE"
+    ],
+    "timezones": [
+      "Europe/Stockholm"
+    ],
+    "languages": [
+      "swe"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Varmland",
+    "channel": "SVT1.se",
+    "id": "Varmland",
+    "name": "Varmland",
+    "alt_names": [
+      "Värmland"
+    ],
+    "is_main": false,
+    "broadcast_area": [
+      "s/SE-S"
+    ],
+    "timezones": [
+      "Europe/Stockholm"
+    ],
+    "languages": [
+      "swe"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Vast",
+    "channel": "SVT1.se",
+    "id": "Vast",
+    "name": "Vast",
+    "alt_names": [
+      "Väst"
+    ],
+    "is_main": false,
+    "broadcast_area": [
+      "c/SE"
+    ],
+    "timezones": [
+      "Europe/Stockholm"
+    ],
+    "languages": [
+      "swe"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Vasterbotten",
+    "channel": "SVT1.se",
+    "id": "Vasterbotten",
+    "name": "Vasterbotten",
+    "alt_names": [
+      "Västerbotten"
+    ],
+    "is_main": false,
+    "broadcast_area": [
+      "s/SE-AC"
+    ],
+    "timezones": [
+      "Europe/Stockholm"
+    ],
+    "languages": [
+      "swe"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Vasternorrland",
+    "channel": "SVT1.se",
+    "id": "Vasternorrland",
+    "name": "Vasternorrland",
+    "alt_names": [
+      "Västernorrland"
+    ],
+    "is_main": false,
+    "broadcast_area": [
+      "s/SE-Y"
+    ],
+    "timezones": [
+      "Europe/Stockholm"
+    ],
+    "languages": [
+      "swe"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "MCRFreeview",
+    "channel": "ThatsTV2.uk",
+    "id": "MCRFreeview",
+    "name": "MCRFreeview",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/UK"
+    ],
+    "timezones": [
+      "Europe/London"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Aberdeen",
+    "channel": "ThatsTV.uk",
+    "id": "Aberdeen",
+    "name": "Aberdeen",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/UK"
+    ],
+    "timezones": [
+      "Europe/London"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Ayrshire",
+    "channel": "ThatsTV.uk",
+    "id": "Ayrshire",
+    "name": "Ayrshire",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/UK"
+    ],
+    "timezones": [
+      "Europe/London"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Belfast",
+    "channel": "ThatsTV.uk",
+    "id": "Belfast",
+    "name": "Belfast",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/UK"
+    ],
+    "timezones": [
+      "Europe/London"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Cumbria",
+    "channel": "ThatsTV.uk",
+    "id": "Cumbria",
+    "name": "Cumbria",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/UK"
+    ],
+    "timezones": [
+      "Europe/London"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Glasgow",
+    "channel": "ThatsTV.uk",
+    "id": "Glasgow",
+    "name": "Glasgow",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/UK"
+    ],
+    "timezones": [
+      "Europe/London"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Hampshire",
+    "channel": "ThatsTV.uk",
+    "id": "Hampshire",
+    "name": "Hampshire",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/UK"
+    ],
+    "timezones": [
+      "Europe/London"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Humber",
+    "channel": "ThatsTV.uk",
+    "id": "Humber",
+    "name": "Humber",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/UK"
+    ],
+    "timezones": [
+      "Europe/London"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Lancashire",
+    "channel": "ThatsTV.uk",
+    "id": "Lancashire",
+    "name": "Lancashire",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/UK"
+    ],
+    "timezones": [
+      "Europe/London"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Lothian",
+    "channel": "ThatsTV.uk",
+    "id": "Lothian",
+    "name": "Lothian",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/UK"
+    ],
+    "timezones": [
+      "Europe/London"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Manchester",
+    "channel": "ThatsTV.uk",
+    "id": "Manchester",
+    "name": "Manchester",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/UK"
+    ],
+    "timezones": [
+      "Europe/London"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Norfolk",
+    "channel": "ThatsTV.uk",
+    "id": "Norfolk",
+    "name": "Norfolk",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/UK"
+    ],
+    "timezones": [
+      "Europe/London"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "NorthYorkshire",
+    "channel": "ThatsTV.uk",
+    "id": "NorthYorkshire",
+    "name": "NorthYorkshire",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/UK"
+    ],
+    "timezones": [
+      "Europe/London"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Solent",
+    "channel": "ThatsTV.uk",
+    "id": "Solent",
+    "name": "Solent",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/UK"
+    ],
+    "timezones": [
+      "Europe/London"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "SouthYorkshire",
+    "channel": "ThatsTV.uk",
+    "id": "SouthYorkshire",
+    "name": "SouthYorkshire",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/UK"
+    ],
+    "timezones": [
+      "Europe/London"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Surrey",
+    "channel": "ThatsTV.uk",
+    "id": "Surrey",
+    "name": "Surrey",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/UK"
+    ],
+    "timezones": [
+      "Europe/London"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "SwanseaBay",
+    "channel": "ThatsTV.uk",
+    "id": "SwanseaBay",
+    "name": "SwanseaBay",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/UK"
+    ],
+    "timezones": [
+      "Europe/London"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Tayside",
+    "channel": "ThatsTV.uk",
+    "id": "Tayside",
+    "name": "Tayside",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/UK"
+    ],
+    "timezones": [
+      "Europe/London"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "ThamesValley",
+    "channel": "ThatsTV.uk",
+    "id": "ThamesValley",
+    "name": "ThamesValley",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/UK"
+    ],
+    "timezones": [
+      "Europe/London"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "UKManchester",
+    "channel": "ThatsTV.uk",
+    "id": "UKManchester",
+    "name": "UKManchester",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/UK"
+    ],
+    "timezones": [
+      "Europe/London"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Wiltshire",
+    "channel": "ThatsTV.uk",
+    "id": "Wiltshire",
+    "name": "Wiltshire",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/UK"
+    ],
+    "timezones": [
+      "Europe/London"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "York",
+    "channel": "ThatsTV.uk",
+    "id": "York",
+    "name": "York",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/UK"
+    ],
+    "timezones": [
+      "Europe/London"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "4KHDR",
+    "channel": "Travelxp.in",
+    "id": "4KHDR",
+    "name": "4K HDR",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/IN"
+    ],
+    "timezones": [
+      "Asia/Kolkata"
+    ],
+    "languages": [
+      "eng",
+      "hin",
+      "ben",
+      "tam"
+    ],
+    "format": "2160p"
+  },
+  {
+    "_id": "Aceh",
+    "channel": "TVRI.id",
+    "id": "Aceh",
+    "name": "Aceh",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "s/ID-AC"
+    ],
+    "timezones": [
+      "Asia/Jakarta"
+    ],
+    "languages": [
+      "ind"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "BangkaBelitung",
+    "channel": "TVRI.id",
+    "id": "BangkaBelitung",
+    "name": "Bangka Belitung",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "s/ID-BB"
+    ],
+    "timezones": [
+      "Asia/Jakarta"
+    ],
+    "languages": [
+      "ind"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Bengkulu",
+    "channel": "TVRI.id",
+    "id": "Bengkulu",
+    "name": "Bengkulu",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "s/ID-BE"
+    ],
+    "timezones": [
+      "Asia/Jakarta"
+    ],
+    "languages": [
+      "ind"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "CentralJava",
+    "channel": "TVRI.id",
+    "id": "CentralJava",
+    "name": "Central Java",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "s/ID-JT"
+    ],
+    "timezones": [
+      "Asia/Jakarta"
+    ],
+    "languages": [
+      "ind"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "CentralKalimantan",
+    "channel": "TVRI.id",
+    "id": "CentralKalimantan",
+    "name": "Central Kalimantan",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "s/ID-KT"
+    ],
+    "timezones": [
+      "Asia/Jakarta"
+    ],
+    "languages": [
+      "ind"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "CentralSulawesi",
+    "channel": "TVRI.id",
+    "id": "CentralSulawesi",
+    "name": "Central Sulawesi",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "s/ID-ST"
+    ],
+    "timezones": [
+      "Asia/Jakarta"
+    ],
+    "languages": [
+      "ind"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "EastJava",
+    "channel": "TVRI.id",
+    "id": "EastJava",
+    "name": "East Java",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "s/ID-JI"
+    ],
+    "timezones": [
+      "Asia/Jakarta"
+    ],
+    "languages": [
+      "ind",
+      "jav"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "EastKalimantan",
+    "channel": "TVRI.id",
+    "id": "EastKalimantan",
+    "name": "East Kalimantan",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "s/ID-KI"
+    ],
+    "timezones": [
+      "Asia/Jakarta"
+    ],
+    "languages": [
+      "ind"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "EastNusaTenggara",
+    "channel": "TVRI.id",
+    "id": "EastNusaTenggara",
+    "name": "East Nusa Tenggara",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "s/ID-NT"
+    ],
+    "timezones": [
+      "Asia/Jakarta"
+    ],
+    "languages": [
+      "ind"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Gorontalo",
+    "channel": "TVRI.id",
+    "id": "Gorontalo",
+    "name": "Gorontalo",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "s/ID-GO"
+    ],
+    "timezones": [
+      "Asia/Jakarta"
+    ],
+    "languages": [
+      "ind"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Jambi",
+    "channel": "TVRI.id",
+    "id": "Jambi",
+    "name": "Jambi",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "s/ID-JA"
+    ],
+    "timezones": [
+      "Asia/Jakarta"
+    ],
+    "languages": [
+      "ind"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Lampung",
+    "channel": "TVRI.id",
+    "id": "Lampung",
+    "name": "Lampung",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "s/ID-LA"
+    ],
+    "timezones": [
+      "Asia/Jakarta"
+    ],
+    "languages": [
+      "ind"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Maluku",
+    "channel": "TVRI.id",
+    "id": "Maluku",
+    "name": "Maluku",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "s/ID-ML",
+      "s/ID-MU"
+    ],
+    "timezones": [
+      "Asia/Jakarta"
+    ],
+    "languages": [
+      "ind"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "NorthKalimantan",
+    "channel": "TVRI.id",
+    "id": "NorthKalimantan",
+    "name": "North Kalimantan",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "s/ID-KU"
+    ],
+    "timezones": [
+      "Asia/Jakarta"
+    ],
+    "languages": [
+      "ind"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "NorthSulawesi",
+    "channel": "TVRI.id",
+    "id": "NorthSulawesi",
+    "name": "North Sulawesi",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "s/ID-SA"
+    ],
+    "timezones": [
+      "Asia/Jakarta"
+    ],
+    "languages": [
+      "ind"
+    ],
+    "format": "1080p"
+  },
+  {
+    "_id": "NorthSumatra",
+    "channel": "TVRI.id",
+    "id": "NorthSumatra",
+    "name": "North Sumatra",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "s/ID-SU"
+    ],
+    "timezones": [
+      "Asia/Jakarta"
+    ],
+    "languages": [
+      "ind"
+    ],
+    "format": "1080p"
+  },
+  {
+    "_id": "Papua",
+    "channel": "TVRI.id",
+    "id": "Papua",
+    "name": "Papua",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "s/ID-PP"
+    ],
+    "timezones": [
+      "Asia/Jakarta"
+    ],
+    "languages": [
+      "ind"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Riau",
+    "channel": "TVRI.id",
+    "id": "Riau",
+    "name": "Riau",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "s/ID-RI"
+    ],
+    "timezones": [
+      "Asia/Jakarta"
+    ],
+    "languages": [
+      "ind"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "SoutheastSulawesi",
+    "channel": "TVRI.id",
+    "id": "SoutheastSulawesi",
+    "name": "Southeast Sulawesi",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "s/ID-SG"
+    ],
+    "timezones": [
+      "Asia/Jakarta"
+    ],
+    "languages": [
+      "ind"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "SouthKalimantan",
+    "channel": "TVRI.id",
+    "id": "SouthKalimantan",
+    "name": "South Kalimantan",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "s/ID-KS"
+    ],
+    "timezones": [
+      "Asia/Jakarta"
+    ],
+    "languages": [
+      "ind"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "SouthSulawesi",
+    "channel": "TVRI.id",
+    "id": "SouthSulawesi",
+    "name": "South Sulawesi",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "s/ID-SN"
+    ],
+    "timezones": [
+      "Asia/Jakarta"
+    ],
+    "languages": [
+      "ind"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "SouthSumatra",
+    "channel": "TVRI.id",
+    "id": "SouthSumatra",
+    "name": "South Sumatra",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "s/ID-SB"
+    ],
+    "timezones": [
+      "Asia/Jakarta"
+    ],
+    "languages": [
+      "ind"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "WestJava",
+    "channel": "TVRI.id",
+    "id": "WestJava",
+    "name": "West Java",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "s/ID-JB"
+    ],
+    "timezones": [
+      "Asia/Jakarta"
+    ],
+    "languages": [
+      "ind"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "WestKalimantan",
+    "channel": "TVRI.id",
+    "id": "WestKalimantan",
+    "name": "West Kalimantan",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "s/ID-KB"
+    ],
+    "timezones": [
+      "Asia/Jakarta"
+    ],
+    "languages": [
+      "ind"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "WestNusaTenggara",
+    "channel": "TVRI.id",
+    "id": "WestNusaTenggara",
+    "name": "West Nusa Tenggara",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "s/ID-NB"
+    ],
+    "timezones": [
+      "Asia/Jakarta"
+    ],
+    "languages": [
+      "ind"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "WestPapua",
+    "channel": "TVRI.id",
+    "id": "WestPapua",
+    "name": "West Papua",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "s/ID-PB"
+    ],
+    "timezones": [
+      "Asia/Jakarta"
+    ],
+    "languages": [
+      "ind"
+    ],
+    "format": "1080p"
+  },
+  {
+    "_id": "WestSulawesi",
+    "channel": "TVRI.id",
+    "id": "WestSulawesi",
+    "name": "West Sulawesi",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "s/ID-SR"
+    ],
+    "timezones": [
+      "Asia/Jakarta"
+    ],
+    "languages": [
+      "ind"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "WestSumatra",
+    "channel": "TVRI.id",
+    "id": "WestSumatra",
+    "name": "West Sumatra",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "s/ID-SS"
+    ],
+    "timezones": [
+      "Asia/Jakarta"
+    ],
+    "languages": [
+      "ind"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Yogyakarta",
+    "channel": "TVRI.id",
+    "id": "Yogyakarta",
+    "name": "Yogyakarta",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "s/ID-YO"
+    ],
+    "timezones": [
+      "Asia/Jakarta"
+    ],
+    "languages": [
+      "ind"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Aachen",
+    "channel": "WDRFernsehen.de",
+    "id": "Aachen",
+    "name": "Aachen",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "ct/DEAAH"
+    ],
+    "timezones": [
+      "Europe/Berlin"
+    ],
+    "languages": [
+      "deu"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Bielefeld",
+    "channel": "WDRFernsehen.de",
+    "id": "Bielefeld",
+    "name": "Bielefeld",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "ct/DEBFE"
+    ],
+    "timezones": [
+      "Europe/Berlin"
+    ],
+    "languages": [
+      "deu"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Bonn",
+    "channel": "WDRFernsehen.de",
+    "id": "Bonn",
+    "name": "Bonn",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "ct/DEBON"
+    ],
+    "timezones": [
+      "Europe/Berlin"
+    ],
+    "languages": [
+      "deu"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Dortmund",
+    "channel": "WDRFernsehen.de",
+    "id": "Dortmund",
+    "name": "Dortmund",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "ct/DEDTM"
+    ],
+    "timezones": [
+      "Europe/Berlin"
+    ],
+    "languages": [
+      "deu"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Duisburg",
+    "channel": "WDRFernsehen.de",
+    "id": "Duisburg",
+    "name": "Duisburg",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "ct/DEDUI"
+    ],
+    "timezones": [
+      "Europe/Berlin"
+    ],
+    "languages": [
+      "deu"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Dusseldorf",
+    "channel": "WDRFernsehen.de",
+    "id": "Dusseldorf",
+    "name": "Dusseldorf",
+    "alt_names": [
+      "Düsseldorf"
+    ],
+    "is_main": false,
+    "broadcast_area": [
+      "ct/DEDUS"
+    ],
+    "timezones": [
+      "Europe/Berlin"
+    ],
+    "languages": [
+      "deu"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Essen",
+    "channel": "WDRFernsehen.de",
+    "id": "Essen",
+    "name": "Essen",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "ct/DEESS"
+    ],
+    "timezones": [
+      "Europe/Berlin"
+    ],
+    "languages": [
+      "deu"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Koln",
+    "channel": "WDRFernsehen.de",
+    "id": "Koln",
+    "name": "Koln",
+    "alt_names": [
+      "Köln"
+    ],
+    "is_main": true,
+    "broadcast_area": [
+      "ct/DECGN"
+    ],
+    "timezones": [
+      "Europe/Berlin"
+    ],
+    "languages": [
+      "deu"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Munster",
+    "channel": "WDRFernsehen.de",
+    "id": "Munster",
+    "name": "Munster",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "ct/DEMUN"
+    ],
+    "timezones": [
+      "Europe/Berlin"
+    ],
+    "languages": [
+      "deu"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Siegen",
+    "channel": "WDRFernsehen.de",
+    "id": "Siegen",
+    "name": "Siegen",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "ct/DESGE"
+    ],
+    "timezones": [
+      "Europe/Berlin"
+    ],
+    "languages": [
+      "deu"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "Wuppertal",
+    "channel": "WDRFernsehen.de",
+    "id": "Wuppertal",
+    "name": "Wuppertal",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "ct/DEWUP"
+    ],
+    "timezones": [
+      "Europe/Berlin"
+    ],
+    "languages": [
+      "deu"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "247News",
+    "channel": "WNBC471.us",
+    "id": "247News",
+    "name": "24/7 News",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "ct/USNYC"
+    ],
+    "timezones": [
+      "America/New_York"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "format": "1080i"
+  },
+  {
+    "_id": "Egypt",
+    "channel": "ZeeAlwan.ae",
+    "id": "Egypt",
+    "name": "Egypt",
+    "alt_names": [],
+    "is_main": false,
+    "broadcast_area": [
+      "c/EG"
+    ],
+    "timezones": [
+      "Africa/Cairo"
+    ],
+    "languages": [
+      "ara"
+    ],
+    "format": "576i"
+  },
+  {
+    "_id": "ME",
+    "channel": "ZeeKeralam.in",
+    "id": "ME",
+    "name": "ME",
+    "alt_names": [
+      "Middle East"
+    ],
+    "is_main": false,
+    "broadcast_area": [
+      "r/MIDEAST"
+    ],
+    "timezones": [
+      "Asia/Dubai"
+    ],
+    "languages": [
+      "mal"
+    ],
+    "format": "1080p"
+  }
+]
