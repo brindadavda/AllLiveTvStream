@@ -8,7 +8,9 @@ RED = "\033[0;31m"
 BLUE = "\033[0;34m"
 NC = "\033[0m"
 
-BASE_URL = "http://127.0.0.1:8000"
+import os
+
+BASE_URL = os.getenv("BASE_URL", "http://127.0.0.1:8000")
 CONCURRENT_REQUESTS = 100
 PATH = "/api/v1/channels?page=1&limit=10"
 
