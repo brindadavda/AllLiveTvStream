@@ -66,14 +66,20 @@ async def startup_event():
     else:
         logger.info(f"Database contains {channel_count} channels. Ready to stream.")
         
-    # Start Scheduler
-    start_scheduler()
-    logger.info("HydraStream Backend successfully loaded!")
-
+    # Start Scheduler (Skip when running in Vercel Serverless environment to prevent thread-spawning crashes)
+    import os
+    if not os.getenv("VERCEL"):
+        start_scheduler()
+        logger.info("HydraStream Backend successfully loaded!")
+    else:
+        logger.info("Running in Vercel Serverless environment. Scheduler startup skipped.")
+        
 @app.on_event("shutdown")
 async def shutdown_event():
     logger.info("Shutting down HydraStream services...")
-    shutdown_scheduler()
+    import os
+    if not os.getenv("VERCEL"):
+        shutdown_scheduler()
     logger.info("HydraStream Backend shut down successfully.")
 
 @app.get("/")
