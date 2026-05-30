@@ -100,6 +100,7 @@ python3 -m uvicorn main:app --host 127.0.0.1 --port 8000 --reload
 | `GET` | `/api/v1/channels/fastest` | Active channels sorted by response latency ascending | Live |
 | `GET` | `/api/v1/categories` | Distinct categories list + active channel counts | Cached (5 mins) |
 | `GET` | `/api/v1/countries` | Distinct countries list + active channel counts | Cached (5 mins) |
+| `GET` | `/api/v1/languages` | Distinct languages list + active channel counts | Cached (5 mins) |
 | `GET` | `/api/v1/trending` | Top trending streams based on popularity scores | Cached |
 
 ---

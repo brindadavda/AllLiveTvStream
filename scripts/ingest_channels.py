@@ -23,7 +23,7 @@ async def main():
     else:
         print("\n[SUCCESS] Connected to MongoDB Atlas Cloud Cluster!")
         
-    limit = 250
+    limit = 5000
     print(f"\n1. Fetching, parsing, and enriching the first {limit} channels from IPTV-org...")
     
     # Run the ingestion service

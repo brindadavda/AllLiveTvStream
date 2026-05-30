@@ -4,7 +4,7 @@ from typing import List, Optional
 class ChannelResponse(BaseModel):
     id: str = Field(alias="_id")
     name: str
-    stream_url: str
+    stream_url: Optional[str] = ""
     logo: Optional[str] = ""
     country: Optional[str] = "Unknown"
     language: Optional[str] = "Unknown"
@@ -51,4 +51,8 @@ class CategoryCount(BaseModel):
 
 class CountryCount(BaseModel):
     country: str
+    count: int
+
+class LanguageCount(BaseModel):
+    language: str
     count: int

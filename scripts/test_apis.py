@@ -46,6 +46,9 @@ async def main():
         # 3. Get countries
         await test_endpoint(client, "Get Countries list", "/api/v1/countries")
         
+        # 3.5. Get languages
+        await test_endpoint(client, "Get Languages list", "/api/v1/languages")
+        
         # 4. Get working channels list
         await test_endpoint(client, "Get All Channels (Page 1)", "/api/v1/channels?page=1&limit=5")
         

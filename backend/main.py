@@ -96,6 +96,7 @@ async def root():
             "api_v1_channels": "/api/v1/channels",
             "api_v1_categories": "/api/v1/categories",
             "api_v1_countries": "/api/v1/countries",
+            "api_v1_languages": "/api/v1/languages",
             "api_v1_trending": "/api/v1/trending",
             "api_v1_fastest": "/api/v1/channels/fastest",
             "api_v1_search": "/api/v1/search?q=sports",

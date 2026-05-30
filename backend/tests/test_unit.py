@@ -74,6 +74,12 @@ class TestHydraStreamUnit(unittest.TestCase):
         self.assertEqual(resp.status_code, 200)
         self.assertIsInstance(resp.json(), list)
 
+    def test_languages_endpoint(self):
+        """Verify languages API responds with valid array."""
+        resp = self.client.get("/api/v1/languages")
+        self.assertEqual(resp.status_code, 200)
+        self.assertIsInstance(resp.json(), list)
+
     def test_channels_paginated_endpoint(self):
         """Verify that /channels responds with correct pagination schemas."""
         resp = self.client.get("/api/v1/channels?page=1&limit=5")
@@ -83,6 +89,20 @@ class TestHydraStreamUnit(unittest.TestCase):
         self.assertIn("channels", data)
         self.assertIn("page", data)
         self.assertIn("limit", data)
+        self.assertIsInstance(data["channels"], list)
+
+    def test_channels_non_paginated_endpoint(self):
+        """Verify that calling /channels without limit query parameter returns all channels from db."""
+        resp = self.client.get("/api/v1/channels")
+        self.assertEqual(resp.status_code, 200)
+        data = resp.json()
+        self.assertIn("total", data)
+        self.assertIn("channels", data)
+        self.assertIn("page", data)
+        self.assertIn("limit", data)
+        self.assertEqual(data["limit"], data["total"])
+        self.assertEqual(data["page"], 1)
+        self.assertEqual(data["pages"], 1)
         self.assertIsInstance(data["channels"], list)
 
     def test_channels_search_endpoint(self):

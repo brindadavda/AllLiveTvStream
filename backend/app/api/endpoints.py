@@ -6,7 +6,7 @@ from app.utils.logger import logger
 from app.database.mongo_client import db
 from app.cache.redis_client import redis_client
 from app.schemas.channel import (
-    ChannelResponse, ChannelListResponse, CategoryCount, CountryCount
+    ChannelResponse, ChannelListResponse, CategoryCount, CountryCount, LanguageCount
 )
 
 router = APIRouter(prefix="/api/v1")
@@ -17,12 +17,12 @@ async def get_channels(
     country: Optional[str] = Query(None, description="Filter by Country name"),
     category: Optional[str] = Query(None, description="Filter by Category"),
     language: Optional[str] = Query(None, description="Filter by Language"),
-    working_only: bool = Query(True, description="Only return working streams"),
-    page: int = Query(1, ge=1, description="Page number"),
-    limit: int = Query(20, ge=1, le=100, description="Items per page")
+    working_only: bool = Query(False, description="Only return working streams"),
+    page: Optional[int] = Query(None, ge=1, description="Page number"),
+    limit: Optional[int] = Query(None, ge=1, description="Items per page")
 ):
     """
-    Get paginated channels with optional filters.
+    Get channels with optional pagination and filters.
     Caches responses to Redis for sub-millisecond delivery.
     """
     # Create a unique cache key based on query filters
@@ -41,7 +41,7 @@ async def get_channels(
     logger.info(f"Cache MISS for channels query: {cache_key}. Fetching from MongoDB...")
 
     # Build DB filter query
-    query = {"active": True, "stream_url": {"$exists": True}}
+    query = {"active": True}
     if working_only:
         query["status"] = "working"
     if country:
@@ -51,23 +51,31 @@ async def get_channels(
     if language:
         query["language"] = language
 
-    # Pagination logic
-    skip = (page - 1) * limit
-    
     total = await db.channels.count_documents(query)
     
     cursor = db.channels.find(query)
     # Apply sorting (default working first, then alphabetical)
-    cursor = cursor.sort([("status", 1), ("name", 1)]).skip(skip).limit(limit)
+    cursor = cursor.sort([("status", 1), ("name", 1)])
     
-    channels = await cursor.to_list(length=limit)
+    if limit is not None:
+        actual_page = page if page is not None else 1
+        skip = (actual_page - 1) * limit
+        cursor = cursor.skip(skip).limit(limit)
+        channels = await cursor.to_list(length=limit)
+        pages = (total + limit - 1) // limit if total > 0 else 0
+        resp_page = actual_page
+        resp_limit = limit
+    else:
+        channels = await cursor.to_list(length=max(1, total))
+        pages = 1
+        resp_page = 1
+        resp_limit = total
     
     # Render response dictionary
-    pages = (total + limit - 1) // limit if total > 0 else 0
     response_data = {
         "total": total,
-        "page": page,
-        "limit": limit,
+        "page": resp_page,
+        "limit": resp_limit,
         "pages": pages,
         "channels": channels
     }
@@ -92,7 +100,6 @@ async def search_channels(
     """
     query = {
         "active": True,
-        "stream_url": {"$exists": True},
         "$or": [
             {"name": {"$regex": q, "$options": "i"}},
             {"category": {"$regex": q, "$options": "i"}},
@@ -210,6 +217,40 @@ async def get_countries():
         await redis_client.set(cache_key, json.dumps(results), ex=300)
     except Exception as e:
         logger.warning(f"Error saving countries to cache: {e}")
+
+    return results
+
+@router.get("/languages", response_model=List[LanguageCount])
+async def get_languages():
+    """
+    Return distinct languages and their aggregate channel counts.
+    """
+    cache_key = "cache:languages"
+    try:
+        cached_val = await redis_client.get(cache_key)
+        if cached_val:
+            logger.info("Cache HIT for languages query")
+            data_str = cached_val.decode("utf-8") if isinstance(cached_val, bytes) else cached_val
+            return json.loads(data_str)
+    except Exception as e:
+        logger.warning(f"Error fetching languages from cache: {e}")
+
+    languages = await db.channels.distinct("language", {"active": True, "stream_url": {"$exists": True}})
+    
+    results = []
+    for lang in languages:
+        if not lang:
+            continue
+        count = await db.channels.count_documents({"active": True, "language": lang, "stream_url": {"$exists": True}})
+        results.append({"language": lang, "count": count})
+        
+    # Sort languages by count descending
+    results.sort(key=lambda x: x["count"], reverse=True)
+
+    try:
+        await redis_client.set(cache_key, json.dumps(results), ex=300)
+    except Exception as e:
+        logger.warning(f"Error saving languages to cache: {e}")
 
     return results
 

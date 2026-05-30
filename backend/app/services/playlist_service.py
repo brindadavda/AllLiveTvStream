@@ -50,6 +50,19 @@ class PlaylistService:
                         logger.info(f"Loaded {len(channels_map)} channels database items from IPTV-org API")
             except Exception as e:
                 logger.warning(f"Could not load channels database metadata: {e}")
+
+            # 4. Fetch Feeds Database (to map tvg-id to languages)
+            try:
+                async with session.get("https://iptv-org.github.io/api/feeds.json", timeout=15) as resp:
+                    if resp.status == 200:
+                        feeds_list = await resp.json()
+                        for f in feeds_list:
+                            chan_id = f.get("channel")
+                            if chan_id and f.get("languages") and chan_id in channels_map:
+                                channels_map[chan_id]["languages"] = f["languages"]
+                        logger.info(f"Mapped languages from {len(feeds_list)} feeds database items from IPTV-org API")
+            except Exception as e:
+                logger.warning(f"Could not load feeds metadata: {e}")
                 
         return channels_map, countries_map, languages_map
 
